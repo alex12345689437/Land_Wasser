@@ -58,7 +58,7 @@ def fit_zoom(b, w, h):
             return z
     return 4
 
-def render(T_, w, h, center=None, zoom=None, bbox=None, direkt=True, labels=True, kritisch=True, scale=2):
+def render(T_, w, h, center=None, zoom=None, bbox=None, direkt=True, labels=True, kritisch=True, wind=False, scale=2):
     W, H = w * scale, h * scale
     if center:
         z = zoom
@@ -107,6 +107,26 @@ def render(T_, w, h, center=None, zoom=None, bbox=None, direkt=True, labels=True
     if kritisch:
         for i, kp in enumerate(T_.get("kritisch", [])):
             dot((kp["lat"], kp["lon"]), 16, COL.get(kp.get("typ"), COL["crit"]), str(i + 1))
+    if wind:
+        # Windpfeile: zeigen in die Richtung, in die der Wind weht; Beschriftung = Herkunft und Stärke
+        RICHT = ["N","NNO","NO","ONO","O","OSO","SO","SSO","S","SSW","SW","WSW","W","WNW","NW","NNW"]
+        for wd in T_.get("wind", []):
+            x, y = P((wd["lat"], wd["lon"]))
+            if not (0 < x < W and 0 < y < H):
+                continue
+            to = math.radians((float(wd["richtung"]) + 180) % 360)
+            L = 56 + min(float(wd.get("kn", 10)), 30) * 2.2
+            dx, dy = math.sin(to), -math.cos(to)
+            x0, y0, x1, y1 = x - dx * L / 2, y - dy * L / 2, x + dx * L / 2, y + dy * L / 2
+            wc = (20, 110, 110)
+            d.line([(x0, y0), (x1, y1)], fill="white", width=11)
+            d.line([(x0, y0), (x1 - dx * 10, y1 - dy * 10)], fill=wc, width=6)
+            px_, py_ = -dy, dx
+            d.polygon([(x1, y1), (x1 - dx * 18 + px_ * 10, y1 - dy * 18 + py_ * 10), (x1 - dx * 18 - px_ * 10, y1 - dy * 18 - py_ * 10)], fill=wc, outline="white")
+            txt = RICHT[int((float(wd["richtung"]) % 360) / 22.5 + 0.5) % 16] + " " + str(round(float(wd.get("kn", 0)))) + " kn"
+            if wd.get("zeit"):
+                txt += " · " + wd["zeit"]
+            d.text((x0 - dx * 6, y0 - dy * 6 + 14), txt, fill=wc, font=font(17), anchor="mm", stroke_width=4, stroke_fill="white")
     for hf in T_.get("haefen", []):
         dot((hf["lat"], hf["lon"]), 11, (138, 150, 163) if hf.get("rolle") == "ausweich" else COL["direkt"], "", hf.get("name", ""))
     att = "© OpenStreetMap-Mitwirkende · © OpenSeaMap"
@@ -131,9 +151,9 @@ def process(path):
     art = data.get("_vorlage", "skipper")
     karten, fehlend = {}, 0
     if art == "mitsegler":
-        karten["uebersicht"], f = render(data, 700, 272, bbox=bbox_all(data), direkt=False, kritisch=False); fehlend += f
+        karten["uebersicht"], f = render(data, 700, 272, bbox=bbox_all(data), direkt=False, kritisch=False, wind=True); fehlend += f
     else:
-        karten["uebersicht"], f = render(data, 710, 295, bbox=bbox_all(data)); fehlend += f
+        karten["uebersicht"], f = render(data, 710, 295, bbox=bbox_all(data), wind=True); fehlend += f
         karten["details"] = []
         for kp in data.get("kritisch", []):
             img, f = render(data, 345, 234, center=(kp["lat"], kp["lon"]), zoom=int(kp.get("zoom", 15)), direkt=False, labels=False)
