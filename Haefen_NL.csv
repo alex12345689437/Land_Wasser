@@ -1,0 +1,910 @@
+name,kategorie,lat,lon,ort,telefon,ukw_kanal,website,email,liegeplaetze,max_tiefgang,max_laenge,gastliegeplaetze,strom,wasser,duschen,toiletten,zugang,osm_id
+'t Eibertsnest,marina,53.24237,6.01817,,,,https://jachthavenkuikhorne.nl/,,,,,,,,,,,way/1526338761
+ARZV,marina,52.56049,4.74155,,,,https://zeilmotor.arzv.nl,,,,,,,,,,,way/107070107
+AWS Edndracht,marina,53.04984,5.82733,,,,,,,,,,,,,,,node/5793893541
+Aanlegplaats De Keur,marina,52.70101,5.23878,,,,,,,,,,,,,,,node/8740656148
+Aanloophaven Huizen,marina,52.30028,5.26579,,,,,,,,,,,,,,,relation/13113705
+Aanloophaven Zeewolde,marina,52.33212,5.54681,,,,,,,,,,,,,,,node/661330615
+Aeolus,marina,52.38378,4.91895,,,,https://www.wsv-aeolus.nl/,,,,,,,,,,,way/179640835
+Allround Watersport Meerwijck,marina,53.14328,6.70762,,,,,,,,,,,,,,,way/121483291
+Almelo,marina,52.36923,6.63937,,,,,,,,,,,,,,,node/972944445
+Alpherium,container,52.1128,4.67315,,,,,,,,,,,,,,,way/59852063
+Alter Hafen Lingen,marina,52.51613,7.31328,,,,,,,,,,,,,,,way/40888501
+Amsterdam Marina,marina,52.40394,4.88603,,+31 20 631 0767,31,https://www.amsterdammarina.com/,,,,,,,,,,,way/177695057
+Anleger,marina,52.70098,6.06651,,,,,,,,,,,,,,,node/444695828
+Anleger Campingplatz,marina,52.69265,7.28536,,,,,,,,,,,,,,,node/2074544852
+Annermond,marina,53.07728,6.80127,,,,,,,,,,,,,,,way/783637869
+Aqua Centrum Bremerbergse Hoek,marina,52.41448,5.74442,,+31 321 331 635,,https://www.aquacentrum.nl/nl/jachthaven/jachthaven,,,,,,,,,,,way/166970157
+Arie Wiegmans,marina,52.17617,5.02238,,,,,,,,,,,,,,,node/2905904942
+Aussenhafen Oldersum,marina,53.32377,7.33499,,,,https://www.ycu-oldersum.de/,,,,12,40,yes,yes,,,,way/669363998
+B.v. Sneeker Jachthaven,marina,53.02705,5.66413,,+31 6 15409858,,https://www.sneekerjachthaven.nl,havenmeester@sneekerjachthaven.nl,,,,,,,,,,node/4493819000
+B.v. Sneeker Jachthaven,marina,53.03413,5.6727,,,,,,,,,,,,,,,node/4122978907
+BSC,marina,53.45675,7.34228,,,,,,,,,,,,,,,node/415128144
+BSV Ihlow,marina,53.38964,7.4482,,+49 4929 990442,,https://www.bsv-ihlow.de/,,,,,,,,,,,node/2834018241
+Bakhúster Haven,marina,52.87127,5.45396,,,,,,,,,,,,,,,way/411712968
+Balgerij,marina,52.19103,4.50375,,,,,,,,,,,,,,,way/1058208680
+Baltrum,marina,53.72066,7.36339,,,,,,,,,,,,,,,node/265716730
+Baltrum Hafen,marina,53.72303,7.36756,,,,,,,,,,,,,,,node/431044488
+Bataviahaven,marina,52.51756,5.43821,,,,,,,,,,,,,,,way/136988910
+Beheervereniging Noorderrot,marina_no_facilities,52.51805,5.86692,,,,,,20,,,,,,,,,node/12874378478
+Bekema's pôle,marina,52.9936,5.51544,,,,,,,,,,,,,,,way/834264651
+Bijko jachtbouw,marina,53.17442,5.44544,,+31 517 415 116,,https://www.bijko.nl/,info@bijko.nl,,,,,,,,,,node/2167047566
+Binnenhafen Oldersum,marina,53.32828,7.33435,,,,https://www.ycu-oldersum.de/,,,,12,24,yes,yes,yes,yes,,way/669363999
+Binnenhaven,marina,52.63822,5.0644,,+31 229 214 012,74,https://www.havenshoorn.nl/havens/de-binnenhaven/,havendienst@hoorn.nl,,,,,,,,,,way/90114955
+Binnenhaven,marina,52.68127,5.94686,,,,,,,,,,,,,,private,relation/1315894
+Binnenhaven,marina,53.33661,6.29939,,,,https://www.waterrecreatiezoutkamp.nl,,,,,,,,,,,way/154452292
+Blitsaerd Haven,marina,53.21894,5.8272,,,,https://www.blitsaerd.nl/ligplaatsen-vaarwater,,,,,,,,,,private,way/953807939
+BoB's Boating,marina_no_facilities,52.96678,5.60578,,,,,,5,,,,,,,,,node/11072539616
+Boerenjachthaven Van der Geest,marina,52.21346,4.52195,,,,,,,,,,,,,,,way/421325467
+Bolhaven Zeewolde,marina,52.33382,5.55013,,+31 6 13142414,,https://www.wolderwijd.nl/page6.php,msteenken@solcon.nl,,,,,,,,,,node/662970579
+Bolt,marina,53.10337,6.04346,,,,,,,,,,,,,,private,node/5783697092
+Bonnema Watersport,marina,52.20753,5.07141,Loosdrecht,+31 35 5825255,,https://www.bonnemawatersport.nl,info@bonnemawatersport.nl,,,,,,,,,,node/2865434185
+Bonshaven Zeewolde,marina,52.33055,5.54777,,+31 36 522 1220,,https://www.wolderwijd.nl/page2.php,havenkantoor@wolderwijd.nl,,,,,,,,,,node/661330614
+Boodschappen Steiger,marina,52.26436,4.74987,,,,,,,,,,,,,,,node/3888405456
+Boothaven De Noord,marina_no_facilities,52.54703,6.08866,,,,https://hsvzwolle.mijnhengelsportvereniging.nl/botenhavens/de-havens.html,,,,,,no,,,,,node/12085963396
+Bootsanleger Wassersportverein Elisabethfehn e.V.,marina,53.16578,7.67195,,+49 4499 921250,,https://wsv-elisabethfehn.de/,,,,,,,,,,,node/431077951
+Bootscenter Münster,marina,52.03449,7.67107,,,,http://www.bcm-muenster.de/,,,,,,,,,,,way/401912092
+Bootsclub Barßel,marina,53.1681,7.73693,,,,https://www.bootsclubbarssel.de/,,,,,,,,,,,node/10683397385
+Bootsclub Haselünne,marina,52.66999,7.49765,,+49 5965 1378,,http://www.bootsclub-haseluenne.de/,,,,,,,,,,,node/2115897941
+Bootsclub Kamperfehn,marina,53.08896,7.79698,,,,,,,,,,,,,,,way/601141571
+Bootsclub Nordhorn e.V.,marina,52.43433,7.08177,,,,https://bootsclub-nordhorn.de,,,,,,,,,,,node/330403671
+Bootshafen Altfunnixsiel,marina,53.65525,7.78478,,,,,,,,,,,,,,,way/206616101
+Bootshafen Sieve,marina,53.33842,7.41815,,,,,,,,,,,,,,,way/490460605
+Bootsverein Wiesens,marina,53.45351,7.57623,,,,https://bv-wiesens.de/,Hafenmeister@bv-wiesens.de,,,,,,,,,,node/1038105409
+Botenstalling Nooitgedacht,marina,52.35716,4.96107,,,,,,,,,,,,,,,way/1101027631
+Botenstalling Zijldijk,marina,52.18638,4.52653,,,,,,,,,,,,,,,way/97243258
+Botenvereniging de Werf,marina,52.61127,4.61858,Egmond aan Zee,,,https://www.bvdewerf.nl,secretaris@bvdewerf.nl,100,,,,no,,,,,node/5547414975
+Box 1,marina_no_facilities,52.13808,6.19319,,,,,,,,,,,,,,,node/13289275592
+Box 10,marina_no_facilities,52.13827,6.19357,,,,,,,,,,,,,,,node/13289275599
+Box 11,marina_no_facilities,52.13829,6.19361,,,,,,,,,,,,,,,node/13289275600
+Box 12,marina_no_facilities,52.13831,6.19365,,,,,,,,,,,,,,,node/13289319801
+Box 13,marina_no_facilities,52.13832,6.19369,,,,,,,,,,,,,,,node/13289319802
+Box 14,marina_no_facilities,52.13834,6.19373,,,,,,,,,,,,,,,node/13289319803
+Box 15,marina_no_facilities,52.13836,6.19376,,,,,,,,,,,,,,,node/13289319804
+Box 16,marina_no_facilities,52.13838,6.1938,,,,,,,,,,,,,,,node/13289319805
+Box 17,marina_no_facilities,52.13839,6.19382,,,,,,,,,,,,,,,node/13289319806
+Box 2,marina_no_facilities,52.13811,6.19324,,,,,,,,,,,,,,,node/13289275590
+Box 22,marina_no_facilities,52.13832,6.19298,,,,,,,,,,,,,,,node/13289315564
+Box 23,marina_no_facilities,52.13834,6.19303,,,,,,,,,,,,,,,node/13289315565
+Box 24,marina_no_facilities,52.13835,6.19308,,,,,,,,,,,,,,,node/13289315566
+Box 25,marina_no_facilities,52.13837,6.19313,,,,,,,,,,,,,,,node/13289315567
+Box 26,marina_no_facilities,52.13838,6.19319,,,,,,,,,,,,,,,node/13289315568
+Box 27,marina_no_facilities,52.1384,6.19323,,,,,,,,,,,,,,,node/13289315569
+Box 28,marina_no_facilities,52.13842,6.19329,,,,,,,,,,,,,,,node/13289315570
+Box 29,marina_no_facilities,52.13843,6.19333,,,,,,,,,,,,,,,node/13289315571
+Box 3,marina_no_facilities,52.13813,6.19328,,,,,,,,,,,,,,,node/13289275591
+Box 30,marina_no_facilities,52.13845,6.19339,,,,,,,,,,,,,,,node/13289315572
+Box 31,marina_no_facilities,52.13846,6.19343,,,,,,,,,,,,,,,node/13289315573
+Box 32,marina_no_facilities,52.13848,6.19349,,,,,,,,,,,,,,,node/13289315574
+Box 33,marina_no_facilities,52.13849,6.19353,,,,,,,,,,,,,,,node/13289315575
+Box 34,marina_no_facilities,52.13851,6.19358,,,,,,,,,,,,,,,node/13289315576
+Box 35,marina_no_facilities,52.13852,6.19362,,,,,,,,,,,,,,,node/13289315577
+Box 36,marina_no_facilities,52.13854,6.19367,,,,,,,,,,,,,,,node/13289315578
+Box 37,marina_no_facilities,52.13855,6.19371,,,,,,,,,,,,,,,node/13289315579
+Box 38,marina_no_facilities,52.13856,6.19376,,,,,,,,,,,,,,,node/13289315580
+Box 39,marina_no_facilities,52.13857,6.19379,,,,,,,,,,,,,,,node/13289315581
+Box 4,marina_no_facilities,52.13815,6.19332,,,,,,,,,,,,,,,node/13289275593
+Box 40,marina_no_facilities,52.13859,6.19384,,,,,,,,,,,,,,,node/13289315582
+Box 41,marina_no_facilities,52.1386,6.19387,,,,,,,,,,,,,,,node/13289315583
+Box 42,marina_no_facilities,52.13861,6.1939,,,,,,,,,,,,,,,node/13289315584
+Box 43,marina_no_facilities,52.13862,6.19392,,,,,,,,,,,,,,,node/13289315585
+Box 44,marina_no_facilities,52.13831,6.19291,,,,,,,,,,,,,,,node/13290439967
+Box 44,marina_no_facilities,52.13834,6.19297,,,,,,,,,,,,,,,node/13289315563
+Box 45,marina_no_facilities,52.13835,6.19301,,,,,,,,,,,,,,,node/13289315562
+Box 46,marina_no_facilities,52.13837,6.19308,,,,,,,,,,,,,,,node/13289315561
+Box 47,marina_no_facilities,52.13838,6.19311,,,,,,,,,,,,,,,node/13289315560
+Box 48,marina_no_facilities,52.1384,6.19317,,,,,,,,,,,,,,,node/13289315559
+Box 49,marina_no_facilities,52.13841,6.1932,,,,,,,,,,,,,,,node/13289315558
+Box 5,marina_no_facilities,52.13817,6.19337,,,,,,,,,,,,,,,node/13289275594
+Box 50,marina_no_facilities,52.13842,6.19325,,,,,,,,,,,,,,,node/13289315557
+Box 51,marina_no_facilities,52.13844,6.19329,,,,,,,,,,,,,,,node/13289315556
+Box 52,marina_no_facilities,52.13845,6.19334,,,,,,,,,,,,,,,node/13289315555
+Box 53,marina_no_facilities,52.13846,6.19338,,,,,,,,,,,,,,,node/13289315554
+Box 54,marina_no_facilities,52.13848,6.19343,,,,,,,,,,,,,,,node/13289315553
+Box 55,marina_no_facilities,52.13849,6.19347,,,,,,,,,,,,,,,node/13289315552
+Box 56,marina_no_facilities,52.13851,6.19352,,,,,,,,,,,,,,,node/13289315551
+Box 57,marina_no_facilities,52.13852,6.19357,,,,,,,,,,,,,,,node/13289315550
+Box 58,marina_no_facilities,52.13854,6.19362,,,,,,,,,,,,,,,node/13289315549
+Box 59,marina_no_facilities,52.13855,6.19367,,,,,,,,,,,,,,,node/13289315548
+Box 6,marina_no_facilities,52.13819,6.19341,,,,,,,,,,,,,,,node/13289275595
+Box 60,marina_no_facilities,52.13857,6.19372,,,,,,,,,,,,,,,node/13289315547
+Box 61,marina_no_facilities,52.13858,6.19377,,,,,,,,,,,,,,,node/13289315546
+Box 62,marina_no_facilities,52.1386,6.19382,,,,,,,,,,,,,,,node/13289315545
+Box 63,marina_no_facilities,52.13861,6.19387,,,,,,,,,,,,,,,node/13289315544
+Box 64,marina_no_facilities,52.13863,6.19392,,,,,,,,,,,,,,,node/13289315543
+Box 7,marina_no_facilities,52.13821,6.19344,,,,,,,,,,,,,,,node/13289275596
+Box 8,marina_no_facilities,52.13823,6.19349,,,,,,,,,,,,,,,node/13289275597
+Box 9,marina_no_facilities,52.13825,6.19353,,,,,,,,,,,,,,,node/13289275598
+Box X,marina_no_facilities,52.13845,6.19396,,,,,,,,,,,,,,,node/13289319807
+Buitenhaven,marina,52.63523,5.06515,,+31 229 214 012,74,,,,,,,,,,,,node/2155870987
+Buyshaven,marina,52.69871,5.28657,,,,https://www.buyshaven.nl/,,,,,,,,,,,way/238556672
+Camping De Badhoeve,marina,52.38562,5.01335,,,,,,,,,,,,,,,way/1521083236
+Camping De Badhoeve,marina,52.38655,5.0117,,,,,,,,,,,,,,,way/1521083797
+Camping Roggebotsluis,marina,52.53828,5.86106,,+31 38 331 2402,,,,68,,,,,,,,,way/988669173
+Camping Tjeukemeer,marina,52.91173,5.8095,,,,,,,,,,,,,,,way/389436350
+Camping jachthaven De Domp,marina,53.03395,5.67921,,,,,,,,,,,,,,,way/83732505
+Chaletpark de Brekken,marina,52.86098,5.68957,,+31 6 28470224,,https://www.aqua-state.nl/lemmer,info@aqua-state.nl,,,,,,,,,,node/2155781501
+Cieco,marina,52.19873,4.5096,,,,https://cieco.nl/,,,,,,,,,,,way/1066266966
+City Marina IJdock,marina,52.38438,4.89403,,+31 6 87478290,,https://www.citymarina.nl/,citymarina@outlook.com,,,,,,,,,,way/185158800
+Cnossen,marina,53.17673,6.42352,,,,,,,,,,yes,,,,,way/93106078
+Combi Terminal Twente,container,52.24708,6.78577,,,,,,,,,,,,,,,way/86780043
+Compagnieshaven,marina,52.70431,5.30078,,+31 228 313 353,,https://compagnieshaven.nl/,,,,,,yes,,,,,way/251161990
+Container Terminal Utrecht,container,52.10976,5.07383,,,,,,,,,,,,,,,way/1339013462
+D'Anckerplaets,marina,52.4027,4.89587,,,,,,,,,,,,,,,way/489814682
+Damen Shipyards Bergum,shipyard,53.18462,5.99112,,,,https://www.damen.com/en/news/2014/05/damen_shipyards_bergum_ready_for_market_recovery,,,,,,,,,,,way/668658488
+Damsterhaven,cargo,53.32879,6.92709,,,,,,,,,,,,,,,node/6163480839
+De Belt,marina_no_facilities,52.63569,6.01211,,,,,,,,,,,,,,,way/88920069
+De Bird,marina,52.96871,5.58272,,,,,,,,,,,,,,,way/951511716
+De Broekerhaven,marina,52.68669,5.25578,,+31 6 21404698,,https://wsvdebroekerhaven.nl/,,,,13,,,,,,,node/4883326738
+De Cleypoel Watersport,marina,52.20447,4.58714,,,,,,,,,,,,,,,node/2858063720
+De Dolfijn,marina,52.88965,5.6468,,,,,,,,,,,,,,,node/4441925099
+De Domp 1,marina,53.03488,5.67737,,,,,,,,,,,,,,,node/11050398790
+De Drait,marina,53.10284,6.04364,,,,,,,,,,,,,,,node/5783697091
+De Duikelaar,marina,52.37286,4.82307,,,,https://www.deduikelaar.nl/,,,,,,,,,,,way/178828118
+De Eemhof,marina,52.25693,5.3949,,+31 36 522 8521,,https://www.centerparcs.nl/nl-nl/nederland/fp_EH_vakantiepark-de-eemhof,,,,,,,,,,,node/1352472447
+De Eerste Aanleg,marina,52.17654,5.02244,,,,,,,,,,,,,,,node/2905904957
+De Evenaar,marina,52.18295,5.01994,,,,,,,,,,,,,,,node/2905904940
+De Geuzen,marina,52.47031,5.02325,,,,,,,,,,,,,,,way/194562061
+De Haan Watersport,marina,52.9836,5.4534,,,,,,,,,,,,,,,node/1892304966
+De Hoek,marina,52.96457,5.7044,,,,,,,,,,,,,,,way/478723093
+De Jister,marina,52.88681,5.73672,,,,,,,,,,,,,,,node/2306541850
+De Ketting,marina,52.63417,6.02952,,,,,,,,,,,,,,,node/6006926680
+De Klink,marina,52.42905,5.77866,,+31 6 15083958,,https://deklink.nl/jachthaven/,havenmeester@deklink.nl,,,,,,,,,,way/166970179
+De Klompskippers,marina,53.25641,5.78743,,,,https://www.deklompskippers.nl/,,,,,,,,,,,way/1014925628
+De Kluft,marina,52.8056,5.92556,,+31 561 477 370,,https://www.dekluft.nl/index.php/jachthaven_weerribben/,info@dekluft.nl,,,,,yes,,,,,node/3605490413
+De Kluut,marina_no_facilities,52.37343,5.63707,,,,,,40,,,,,,,,,way/507842507
+De Knar,marina,52.3586,5.61741,,,,,,,,,,,,,,,way/677124302
+De Kolk,marina,52.68774,5.25349,,,,,,,,,,,,,,,way/90039647
+De Kom,marina,52.12797,4.45686,,,,,,,,,,,,,,,node/1747338677
+De Kreupel,marina_no_facilities,52.79373,5.23848,,,,https://ijsselmeeralmanak.nl/havens/havens-ijsselmeer/andijk/de-kreupel/,,,,,,no,,,,,way/1558587352
+De Kuilart,marina,52.90335,5.47129,,,,,,,,,,yes,,,,,node/4011510170
+De Lier,marina,52.98968,5.88557,Nieuwebrug,,,,,20,,,,yes,,,,,node/2926126187
+De Meerkoet,marina_no_facilities,52.52282,5.85622,,,,,,,,,,,,,,,way/636823603
+De Merenburger,marina,52.10677,4.45632,,,,https://demerenburger.nl,,,,,,,,,,,way/753620923
+De Merenpoort BV,marina,52.87436,5.81913,,+31 514 541 463,,https://www.merenpoort.com/de/,,,,,,,,,,,node/4088786551
+De Oerhaal,marina,53.09864,5.83948,,,,,,,,,,,,,,,node/5646306919
+De Oosthoek,marina,52.95708,5.54125,,,,,,,,,,,,,,,way/349487657
+De Punt,marina,52.83948,5.70469,,,,,,,,,,,,,,,node/2638081649
+De Ral,marina_no_facilities,52.40908,5.73109,,,,,,25,,,,,,,,,way/507842503
+De Rietpol,marina,52.41222,4.67808,,,,,,,,,,,,,,,node/602926559
+De Roggebroek,marina,52.88324,5.37862,Stavoren,+31 514 681 469,,https://roggebroek.nl,info@roggebroek.nl,,,,,yes,,,,,way/84053054
+De Ronduite,marina,52.68935,6.04491,Wanneperveen,+31 527 246 456,,deronduite.nl,,,,,,,,,,,node/2404710253
+De Schiffart Jachthaven,marina,53.04403,5.77844,,,,,,,,,,yes,,,,,way/210623385
+De Stormvogel,marina,52.88481,5.40698,,+31 6 53447378,,,,,,,,,,,,,way/85739113
+De Vechtvaarder,marina,52.50111,6.25547,,,,,,,,,,,,,,,way/923326855
+De Wasbeek,marina,52.20817,4.51867,,,,,,,,,,,,,,,way/97401112
+De Woudfennen,marina,52.96072,5.74371,,,,,,,,,,,,,,,way/85048657
+De Zegge,marina,52.3313,5.56053,,,,,,,,,,,,,,,way/618572243
+Deense Haven,cargo,53.21921,6.59448,,,,,,,,,,,,,,,way/94617587
+Deko Marine,marina,52.5338,5.44324,,,,,,,,,,,,,,,way/966444507
+Dellewal,marina,53.365,5.2238,,+31 562 443 337,31,https://www.jachthaventerschelling.nl,info@jachthaventerschelling.nl,,,,,,yes,,,,node/6150345213
+Dex-haven,marina,52.49428,4.79438,,,,,,3,,,,no,,,,,way/996074948
+Dirkse Watersport,marina,52.22098,5.14115,,,,,,,,,,,,,,,way/169297466
+Ditzum,ferry,53.31686,7.28131,,,,,,,,,,,,,,,way/482823001
+Ditzumer Hafen,fishing,53.31672,7.28141,,,,,,,,,,,,,,,relation/7110007
+Doeshaven,marina,52.1494,4.53752,,,,,,,,,,,,,,,way/97243711
+Dorpshaven,marina,52.14753,4.39643,,,,,,,,,,,,,,,way/1154592329
+Draaisma Scheeps- en Jachtwerf,marina,53.18287,5.53749,,,,,,,,,,,,,,,way/1455210600
+Driesprong,marina,52.86241,5.85386,,,,,,,,,,,,,,,node/5826985010
+Droompark Marina Strandbad,marina,52.03566,6.13416,,,,https://www.roompot.nl/vakantieparken/nederland/gelderland/droompark-marina-strandbad/,,175,,,yes,yes,yes,yes,yes,,way/59366371
+E-Harbour,marina,52.33528,4.91759,,,,,,65,,,,yes,,,,,way/785060982
+Elfhoeven,marina,52.0259,4.73652,,,,,,,,,,,,,,,way/1395990822
+Emden Borkumanleger,ferry,53.34334,7.18653,,,,,,,,,,,,,,,node/6032098831
+Ems Yacht Club Lingen,marina,53.02337,7.32275,,,,,,,,,,,,,,,node/1148916781
+Ems Yachtclub Lingen,marina,52.48066,7.2995,,+49 591 2213,,https://www.eyc-lingen.de/,ha.steinhoff@t-online.de,,,,,,,,,,node/2054609211
+Ems-Yacht-Club Rheine,marina,52.47538,7.30412,,+49 171 8954338,,https://www.eyc-rheine.de/,karge@eyc-rheine.de,,,,,,,,,,node/2074472441
+Enjoy Sailing,marina,52.859,5.69971,,+31 514 568 383,,https://www.enjoysailing.nl/,info@enjoysailing.nl,,,,,,,,,,node/771739536
+Farmsumerhaven,cargo,53.314,6.93074,,,,,,,,,,,,,,,way/6299230
+Finse Haven,cargo,53.21494,6.59618,,,,,,,,,,,,,,,way/94617589
+Fischereihafen Osthafen,fishing,53.62461,7.16135,,,,,,,,,,,,,,,node/2666290826
+Flevo Marina,marina,52.55223,5.45946,,+31 88 050 4170,,https://www.flevomarina.com/,info@flevomarina.com,,,,,,,,,,way/966444504
+Fokkerhaven,marina,52.06517,4.33765,,+31 6 53162040,,https://fokkerhaven.nl,info@fokkerhaven.nl,18,,,,,,,,,way/1351579473
+Fort Marina,marina,52.19924,4.51076,,,,https://www.fortmarina.nl/,,,,,,,,,,,way/1066265665
+Franeker Watersport Vereniging,marina,53.18165,5.53266,Franeker,+31 6 22069403,,https://www.franekerwatersportvereniging.nl/,,,,,,,,,,,way/983298405
+Fährhafen Harlesiel,ferry,53.70917,7.81091,,,,,,,,,,,,,,,node/431071038
+Galamadammen,marina,52.89911,5.46109,,+31 514 521 346,,https://www.galamadammen.nl/en/marina.html,info@galamadammen.nl,,,,,,,,,,node/6716350683
+Gem. passantenhaven Nieuwegein,marina,52.01168,5.09888,,,,,,,,,,,,,,,node/1839056700
+Gemeente De Fryske Marren Binnenhaven Lemmer,marina,52.84321,5.71135,,,,https://www.defryskemarren.nl/haven-lemmer/,,,,,,,,,yes,,node/506432468
+Gemeentehaven,marina,52.88203,5.36283,,,,,,,,,,,,,,,node/2313055231
+Gemeentehaven Elburg,marina,52.45226,5.82808,,+31 6 51490030,,,,,,,,,,,,,node/2105667072
+Gemeentehaven Harderwijk,marina,52.35161,5.62403,,+31 341 411 339,,https://www.harderwijk.nl/vrije-tijd/haven_41223/,,,,,,,,,,,node/2104502859
+Gemeentehaven Sneek,marina,53.03115,5.66989,Sneek,+31 6 2194 1100,,https://sudwestfryslan.nl/onderwerp/haven-sneek/,havensneek@sudwestfryslan.nl,,,,,,,,,,node/1834390161
+Gemeentehaven Spakenburg,marina,52.25663,5.38179,,+31 6 53126633,,,,,,,,,,,,,node/3598164061
+Gemeentehaven Urk,marina,52.66017,5.59624,,,,,,,,,,,,,,,way/233642540
+Gemeentelijke Jachthaven Huizen,marina,52.3075,5.24339,,+31 35 528 1222,31,https://www.huizen.nl/Toerisme_Vrije_tijd/Jachthavens/Gemeentelijke_haven,,400,,,,,,,,,way/974819853
+Gemeentelijke Jachthaven Scheemda,marina,53.17607,6.96533,,,,https://www.jachthavenscheemda.nl/,,,,,,,,,,,way/183343135
+Grachtenrondvaart Alkmaar,marina,52.63086,4.75044,Alkmaar,+31 72 511 7750,,https://www.rondvaartalkmaar.nl,,,,,,,,,,,node/2974870096
+Grand Cafe Rutgers,marina,51.98858,6.04262,,,,,,,,,,,,,,,node/1408443397
+Grashaven,marina,52.63484,5.06039,,+31 229 215 208,74,https://www.grashavenhoorn.nl/,,,,,,,,,,,way/250090400
+H.S.V. De Snoekbaars,marina,52.22917,5.30915,Baarn,,,,,,,,,,,,,,node/2742638964
+Haarlemsche Jachtwerf,marina,52.34752,4.64144,,,,http://haarlemschejachtwerf.nl/Site/Welkom.html,,,,,,,,,,,way/1214770794
+Hafen,marina,53.4775,7.2049,Wirdum,,,,,,,,,,,,,,way/179431893
+Hafen (Modellbau),marina,52.26475,7.73001,,,,http://www.smc-ibbenbueren.de/,,,,,,,,,,,way/1031297765
+Hafen Ditzum,fishing,53.31768,7.28261,,,,,,,,,,,,,,,node/4755658733
+Hafen Harlesiel,marina,53.70895,7.8099,,,,,,,,,,,,,,,relation/2797152
+Hafen Langeoog,marina,53.7266,7.50074,,,,,,,,,,,,,,,node/5026683029
+Hafen Norden-Norddeich,,53.62922,7.15737,,,17,https://www.nports.de/,,,,,,,,,,,node/5523907184
+Hafen Petkum,fishing,53.33082,7.27054,,,,,,,,,,,,,,,node/4848506003
+Hafen Westrhauderfehn,marina,53.13699,7.5864,,+49 4952 9032,,,,,,,,,,,,,node/2834027353
+Harlinger Watersportvereniging,marina,53.17784,5.42208,,+31 517 416 898,,https://www.hwsv.frl/,havenmeester@hwsv.frl,,1.9,,yes,yes,yes,yes,yes,,way/1291039459
+Haven 't Verloren Eind,marina,52.53959,4.83532,,,,https://www.verloreneind.nl/,,40,,,,yes,,,,,way/185570762
+Haven Kloosterveen,marina,52.99622,6.51188,,,,,,,,,,,,,,customers,way/132853832
+Haven Lauwersoog,marina,53.40837,6.2,,,,,,,,,,,,,,,node/4816784433
+Haven Marenland Winsum,marina,53.33211,6.50954,,+31 595 442 750,,https://www.marenland.nl/,info@marenland.nl,,,,,yes,,,,,node/1415903611
+Haven Muider Compagnie,marina,52.35361,5.00575,,,,,,,,,,,,,,,way/863112871
+Haven Oldeouwer,marina,52.92279,5.79028,,,,,,,,,,,,,,,way/474483650
+Haven Ommen,marina,52.51854,6.41716,,,,https://www.wsvommen.nl/havenkantoor,,,,,,,,,,,way/1424549187
+Haven Raerd,marina,53.0984,5.75575,,,,,,,,,,,,,,,way/1442548015
+Haven Sauwerd,marina,53.29497,6.52467,,,,,,,,,,,,,,,way/1040460429
+Haven Terwolde,cargo,52.29516,6.10268,,,,,,,,,,,,,,,way/60673806
+Haven WV IJburg,marina,52.35311,5.00477,,,,https://www.wvijburg.nl/,,110,,,,yes,,,,,way/148568963
+Haven ZWV Noord AA,marina,52.08005,4.50318,,,,,,,,,,,,,,,way/407479312
+Haven aan den Rijn,marina,52.13469,4.64522,,,,https://havenaandenrijn.nl/,,,,,,,,,,,node/14076654834
+Haven de Kolk,marina,52.72632,5.95934,,,,,,,,,,,,,,,way/90173787
+Haven van Laaxum,marina_no_facilities,52.85194,5.41097,,,,,,,0.9,,,,,,,,way/1144512398
+Havenkantoor,marina,52.51383,6.08911,Zwolle,,,,,,,,,,,,yes,,node/4159710766
+Havenkantoor,marina,52.96777,5.61604,Heeg,,,https://www.vanroedenwatersport.nl,,,,,,yes,,,,,node/2966097478
+Havenmond Alde Leie,marina,53.28854,5.73128,,,,https://www.aldeleie.nl/toerisme/havencommissie/,,,,,,,,,,,way/1491045025
+Havens Noord,marina,53.02627,5.73505,,+31 6 38754054,,https://www.kws-sneek.nl/faciliteiten/haven-ligplaatsen,havenmeester@skarsweagen.nl,,,,,,,,,,way/1063763242
+Havens Oost,marina,53.02479,5.73344,,+31 6 38754054,,https://www.kws-sneek.nl/faciliteiten/haven-ligplaatsen,havenmeester@skarsweagen.nl,,,,,,,,,,way/1063763241
+Havens Zuid,marina,53.02266,5.73022,,+31 6 38754054,,https://www.kws-sneek.nl/faciliteiten/haven-ligplaatsen,havenmeester@skarsweagen.nl,,,,,,,,,,way/111107768
+Haventje Scouting Zuiderkruis Hilversum,marina,52.22684,5.08636,,,,,,10,,,,,,,,,node/14234499254
+Heerenveen Passantenhaven,marina,52.95869,5.90175,,,,,,,,,,,,,,,node/5794141812
+Hellingshaven,marina,53.09789,5.84218,,+31 6 53151298,,https://www.grou.nl/haveninformatie,,,,,,,,,,,way/1278225389
+Het Jacht,marina,52.39025,4.93974,Amsterdam,+31 6 4312 5667,,https://hetjacht.nl/,,,,,,,,,,,node/9019001054
+Het Vennemeer,marina,52.18963,4.5458,Oud Ade,+31 71 501 8220,,https://www.vennemeer.nl/,,,,,,,,,,,node/1296560036
+Hoflee,marina,52.20886,4.5166,,,,,,,,,,,,,,,way/1065110292
+Holland Sport Boat Centre,marina,52.36796,4.96815,,+31 20 694 7527,,https://www.hollandsport.nl/,info@hollandsport.nl,,,,,,,,,,way/1203265627
+Hoora,marina,52.96776,5.6134,,,,https://hoora.nl,,,,,,yes,,,,,way/1237385333
+Houkesleat,,53.01992,5.69727,,,,,,,,,,,,,,,way/95026776
+Houkesleat,,53.02191,5.6962,,,,,,,,,,,,,,,way/95026796
+Houthaven,marina,52.14944,6.18631,,,,,,,,,,,,,,,way/59366503
+Houtribhaven,marina,52.53162,5.43927,,,,,,,,,,,,,,,way/95750751
+Hulzinga Watersport,marina,52.8833,5.99103,,,,,,,,,,,,,,,node/5818953508
+Hunemanhaven,marina,53.33723,6.29804,,,,,,,,,,,,,,,way/154454031
+Hunsingokade,marina,53.33976,6.30093,,,,,,,,,,,,,,,node/2203486076
+IJmondhaven,passenger,52.46076,4.56946,,,,,,,,,,,,,,,way/365062903
+Industriehaven Assen,marina,53.00008,6.57291,,,,,,,,,,,,,,customers,node/5793854998
+Inter Harbour Ketelhaven,marina,52.58102,5.76089,,+31 321 318 237,,https://www.interharbours.com/,,,,,,,,,,,way/87846473
+It Spoardok,marina,53.27936,5.75753,,,,https://www.feinsum.info/haven/,,,,,,,,,,,way/70577725
+JH Biddinghuizen,marina,52.45977,5.69435,,,,,,,,,,,,,,,node/2136172029
+JH De Bron,marina,52.97894,5.89654,,,,,,,,,,,,,,private,node/5794295843
+JH De Bron,marina,52.97973,5.89593,,,,,,,,,,,,,,private,node/5794295844
+JH De Mars,marina,51.99775,6.03815,,+31 313 631 131,,https://www.campingdemars.nl/,info@campingdemars.nl,,,,,,,,,,way/128624560
+JH De Rousant,marina,53.33362,6.29823,,+31 595 447 150,,https://www.rousant.nl/index_ie.html,info@rousant.nl,,,,,,,,,,node/2178301282
+JH Garnwerd,marina,53.30401,6.49574,,+31 594 628 130,,https://garnwerdaanzee.nl/,,,,,,,,,,customers,node/1713857234
+JH Hart van Friesland,marina,53.0044,5.7059,,,,,,,,,,,,,,,node/4123006888
+JH Hart van Friesland,marina,53.00595,5.70418,,,,,,,,,,,,,,,node/4123007683
+JH Heereloot,marina,52.99286,5.87741,,,,,,,,,,,,,,,node/5794295849
+JH Ossenzijl,marina,52.81094,5.91506,,,,,,,,,,,,,,,way/90243487
+JH Peek Watersport Centrum,marina,52.35931,4.9711,,+31 20 665 5701,,https://www.peekwatersport.nl/,info@peekwatersport.nl,,,,,,,,,,node/4130594681
+JH Sneekermeer,marina,53.03035,5.7324,,,,http://www.jachthaven-sneekermeer.nl,,,,,,,,,,,node/431071042
+JH Winsum,marina,53.33387,6.52447,,,,,,,,,,,,,,,node/1406114189
+JH Zwartkruis B.V.,marina,53.22287,6.03159,,,,,,,,,,,,,,,node/5805994404
+JH de westerein,marina,53.25036,6.02492,,,,,,,,,,,,,,,node/2004664837
+JSG Stadswerf,marina,53.21535,6.5957,,,,https://www.jachtstalling.com/home.html,,,,,,,,,,,way/755436289
+JW Haarsma,marina,52.99046,5.88191,,,,,,,,,,,,,,private,node/5794295848
+JachtHaven Meppel,marina,52.69194,6.16339,,,,https://www.jachthavenmeppel.nl/,,,,,,,,,,,node/2136005275
+Jachtaven Steenwijkerdiep,marina,52.78245,6.08702,Steenwijk,+31 521 520 400,,http://www.jachthavensteenwijkerdiep.nl,info@jachthavensteenwijkerdiep.nl,230,,,,yes,,,,,node/2743214937
+Jachtcenter Elburg BV,marina,52.4556,5.82474,,+31 525 682 800,,https://jachtcenter.nl/,,,,,,,,,,,node/4094992649
+Jachtclub Scheveningen,marina,52.09642,4.26639,Den Haag,,,,,,,,,,,,,,node/1343424606
+Jachthafen Nieuwesluis,marina,52.84074,4.88831,,,,,,,,,,,,,,,node/2886631301
+Jachthafen de Rakken,marina,52.94583,5.62811,,+31 514 591 525,,https://www.derakken.nl/de/,info@derakken.nl,,,,,,,,,,way/1106428735
+Jachthaven,marina,52.72678,5.76627,,,,,,,,,,,,,,,node/1446067217
+Jachthaven,marina,53.16836,7.036,,,,,,,,,,,,,,,way/1309839671
+"Jachthaven ""De Hoop""",marina,52.33232,4.85509,Amsterdam,+31 20 644 5817,,https://jachthavendehoop.nl/,,,,,,,,,,,node/2819136663
+"Jachthaven ""De Vlonder""",marina,52.43938,4.75254,,+31 6 5123 9812,,https://devlonder.info/,houttransport1922@gmail.com,,,,no,yes,yes,yes,yes,,way/1229731437
+"Jachthaven ""WSV de Vecht""",marina,52.30544,5.0468,Weesp,,,https://www.wsvdevecht.nl/,,,,,,,,,,,node/2411593243
+Jachthaven 'De Lemsterpoort',marina,52.89233,5.64575,,+31 514 531 668,,https://www.lemsterpoort.nl/,info@lemsterpoort.nl,,,,,,,,,,node/4216841280
+Jachthaven 't Dok Delfzijl,marina,53.32488,6.922,,,,,secretaris-zv@kzrvneptunus.nl,,,,,,,,,,way/109141847
+Jachthaven 't Eiland,marina,51.98922,6.04766,,+31 313 631 620,,https://www.jhte.nl,,,,,,,,,,,way/1503620859
+Jachthaven 't Hooge Holt,marina,52.60618,6.67539,,,,,,,,,,,,,,,way/147699364
+Jachthaven 't Huizerhoofd,marina,52.31142,5.24863,,+31 35 525 8622,,https://www.jachthavenhuizen.nl/,info@jachthavenhuizen.nl,,,,,,,,,,way/74765028
+Jachthaven 't Raboes,marina,52.272,5.32864,,,,https://www.raboes.nl/,,,,,,,,,,,way/161939045
+Jachthaven 't Sluisje,marina,52.81814,5.81948,,,,,,,,,,,,,,,node/2884818502
+Jachthaven 't Venegat,marina,52.19794,4.66883,,,,,,,,,,,,,,,way/96341365
+Jachthaven AWV,marina,52.34936,6.61774,,+31 546 571455,,https://www.awvalmelo.nl,info@awvalmelo.nl,,,,,,,,,,node/972944659
+Jachthaven Aduarderzijl,marina,53.31648,6.46998,,+31 594 621 836,,https://www.aduarderzijl.com/?page_id=14,camping@aduarderzijl.com,,,,,,,,,,node/1538382668
+Jachthaven Alddjip,marina,53.12276,6.00065,,+31 6 53 70 35 08,,https://www.oudega.info/jachthaven-oudega/,,,,,,,,,,,way/1119977245
+Jachthaven Andijk,marina,52.7465,5.18246,,+31 228 593 075,,https://www.watersportcentrumandijk.nl,,,,,,,,,,,node/2155870998
+Jachthaven Beerta,marina,53.17183,7.09694,,,,http://www.havendagenbeerta.nl/,,,,,,,,,,,node/2203154344
+Jachthaven Bergumermeer Recreatiecentrum,marina,53.19193,6.03044,,+31 511 461 385,,https://www.bergumermeer.nl/watersport/jachthaven,,,,,,,,,,,node/2161072433
+Jachthaven Blessebrug,marina,52.85791,6.02137,,,,,,,,,,,,,,,node/2884841501
+Jachthaven Bommen Berend,marina,51.99569,6.21733,,+31 6 51 801 478,,https://www.jachthavengelderland.nl/jachthaven/,,,,,,yes,,,,,way/1347596116
+Jachthaven Bon,marina,52.25334,4.95068,,,,,,,,,,,,,,,way/24415372
+Jachthaven Bourtange,marina,53.00958,7.1853,,,,https://plathuis.nl/,,,,,,,,,,,node/2179666647
+Jachthaven Bouwsma,marina,52.98313,5.45484,,+31 515 542 004,,https://www.jachthavenbouwsma.nl,jachthavenbouwsma@kpn-officedsl.nl,,,,,,,,,,node/506434820
+Jachthaven Briltil,marina,53.24328,6.38678,,+31 594 502 174,,https://www.jachthavenbriltil.nl,,,,,,,,,,,way/93141251
+Jachthaven De Bearshoeke,marina,52.99107,5.54336,,,,,,,,,,,,,,,way/136550097
+Jachthaven De Bloemert,marina,53.11676,6.67997,,,,,,,,,,,,,,,way/99151155
+Jachthaven De Dwinger,marina,53.27427,6.23437,,,,,,,,,,yes,,,,,node/3997023158
+Jachthaven De Eendracht,marina,52.001,4.55463,,,,,,,,,,,,,,,way/184597869
+Jachthaven De Freek,marina,52.16958,4.58781,,,,,,,,,,,,,,,way/845977971
+Jachthaven De Grote Wielen,marina,53.21893,5.86263,,,,https://jachthavendegrotewielen.nl,,,,,,,,,,,way/73495659
+Jachthaven De Grote Zomer,marina,52.33692,4.98306,,,,,,,,,,,no,,,,node/9436534948
+Jachthaven De Hanze,marina,52.53052,6.07396,,,,,,,,,,,,,,,node/1846911381
+Jachthaven De Haukes,marina,52.88533,4.93235,,+31 227 581 763,,http://www.marinewatersport.nl,,,,,,yes,,,,,relation/17424901
+Jachthaven De Hippert,marina,52.43558,4.85724,Zaandam,,,,,,,,,,,,,,node/2896082747
+Jachthaven De Kaag,marina,52.21755,4.56354,,,,https://www.jachthavenkaagdorp.nl/,,,,,,,,,,,way/424376442
+Jachthaven De Koenen,marina,52.33065,4.84418,Amsterdam,,,,,,,,,,,,,,node/5842534922
+Jachthaven De Koppoel,marina,52.19663,4.5832,Rijpwetering,+31 71 501 8227,,https://www.dekoppoel.nl/Home.html,,,,,,,,,,,node/3861016309
+Jachthaven De Leeuwenbrug — Noorderhaven,marina,53.17574,5.41748,,+31 6 53846734,,https://jachthavenleeuwenbrug.nl/,havenmeester@jachthavenleeuwenbrug.nl,,,,,,,,,,relation/17702087
+Jachthaven De Leeuwenbrug — Zuiderhaven,marina,53.17216,5.41749,,+31 6 53846734,,https://jachthavenleeuwenbrug.nl/,havenmeester@jachthavenleeuwenbrug.nl,,,,,,,,,,relation/17702086
+Jachthaven De Lemsterpoort,marina,52.89327,5.64539,,,,,,,,,,,,,,,node/1861735302
+Jachthaven De Linde,marina,52.85469,6.01968,,,,,,,,,,,,,,,node/2884841201
+Jachthaven De Mars,marina,51.99479,6.03357,,,,,,,,,,,,,,,way/1505295081
+Jachthaven De Mars,marina,52.15291,6.18578,,,,https://www.wsvdemars.nl/,,,,,,,,,,,node/1140832794
+Jachthaven De Molenwaard,marina,52.5949,6.08823,,,,https://www.molenwaard.nl/,,,,,,,,,,,node/7863665899
+Jachthaven De Molenwaard,marina,52.59501,6.087,,+31 38 477 1651,,https://de.molenwaard.nl,info@molenwaard.nl,,,,,,,,,,node/4087556124
+Jachthaven De Nadorst,marina,52.59538,6.0904,,,,https://www.jachthavendenadorst.nl,,,,,,,,,,,node/7346795598
+Jachthaven De Nieuwe Aanleg,marina,52.1663,6.29699,,,,,,,,,,,,,,,node/972946054
+Jachthaven De Noord AA,marina,52.17038,4.58503,,,,,,,,,,,,,,,way/863908184
+Jachthaven De Opbouw,marina,52.17974,5.02098,,,,,,,,,,,,,,,node/2905904954
+Jachthaven De Oude Potmarge,marina,53.19436,5.83223,Leeuwarden,,,https://www.jachthavendeoudepotmarge.nl/,,,,,,,,,,,way/1088865661
+Jachthaven De Oude Werf,marina,52.26115,4.73952,,+31 6 53834571,,https://www.deoudewerf.nl,,,,,,,,,,,node/3863962657
+Jachthaven De Rhederlaagse Meren,marina,51.99452,6.03322,,+31 313 632 211,,https://www.rhederlaagsemeren.nl,,,,,,,,,,,way/1505295080
+Jachthaven De Stormvogel,marina,52.24923,4.70847,,+31 297 325 497,,https://www.wsvderesidentie.nl/index.php/wsv-dee-residentie/contact,,,,,,,,,,,node/3890996738
+Jachthaven De Toekomst,marina,52.17764,5.02161,Breukelen,+31 346 261 295,,https://www.jachthavendetoekomst.nl/,info@jachthavendetoekomst.nl,140,,,,,,,,,node/2905904941
+Jachthaven De Vlietopper,marina,52.12465,4.46359,,+31 71 561 1989,,https://www.wvleidschendam.nl/jachthaven-vlietopper,haven@wvleidschendam.nl,,,,,,,,,,way/96132468
+Jachthaven De Watervriend,marina,52.9972,5.71612,,,,,,,,,,,,,,,way/136179027
+Jachthaven De Waterwolf,marina,53.31384,6.35236,,+31 594 597 565,,https://www.dewaterwolf.nl/jachthaven.htm,,,,,,,,,,,way/238822796
+Jachthaven De Welle,marina,52.98113,5.88928,,,,,,,,,,,,,,private,way/86562598
+Jachthaven De Zeemeermin,marina,52.30776,5.04763,,,,https://de-zeemeermin-weesp.nl/,,,,,,,,,,,node/2102662832
+Jachthaven De Zwemmer,marina,53.18583,5.83741,Leeuwarden,,,http://www.jachthavendezwemmer.nl/,,,,,,,,,,private,way/867647850
+Jachthaven Den Hoek,marina,52.13254,5.06183,,,,,,,,,,,,,,,way/209274021
+Jachthaven Deventer,marina,52.26528,6.12789,Deventer,+31 6 515 977 16,,https://havendeventer.nl,,,,,,,,,,,way/295356909
+Jachthaven Dragt,marina,52.26117,4.7509,,+31 297 324 464,,https://www.jachthavendragt.nl,,,,,,,,,,,node/3861377376
+Jachthaven Durgerdam,marina,52.37788,4.99337,,+31 20 490 4717,31,https://www.zvhety.nl/havens/durgerdam,havenmeester.durgerdam@zvhety.nl,,2.20,,,,,,,,way/1097263874
+Jachthaven E.W. Driessen,marina,52.32969,4.81507,,,,http://www.ewdriessen.nl,,,,,,,,,,,way/26400817
+Jachthaven Earnewâld,marina,53.12829,5.93622,,,,https://www.havenearnewald.nl,,,,,,,,,,,way/1269871233
+Jachthaven Edam,marina,52.51773,5.07316,,+31 6 22515210,,http://www.jachthavenedam.nl,havenmeester@jachthavenedam.nl,,,,,,,,,,way/496779816
+Jachthaven Eembrugge,marina,52.21959,5.30919,Baarn,,,https://www.jachthaveneembrugge.nl,,,,,,,,,,,way/244247146
+Jachthaven Eendracht,marina,52.96809,5.61089,,,,https://jachthaveneendracht.nl/,,,,,,,,,,,way/227845257
+Jachthaven Enschede,marina,52.22099,6.85732,,,,,,,,,,,,,,,way/142276122
+Jachthaven Erkemederstrand,marina,52.26657,5.48721,,+31 36 522 8421,,https://www.erkemederstrand.nl/nl/jachthaven-flevoland-camping,info@erkemederstrand.nl,,,,,,,,,,way/169638800
+Jachthaven Espel,marina,52.71799,5.64608,,,,,,,,,,,,,,,node/8500676470
+Jachthaven Feenstra,marina,53.1502,5.88301,,,,,,,,,,,,,,,node/2883527001
+Jachthaven Fjouwerhûs,marina,52.90432,5.84438,,,,http://www.jachthavenfjouwerhus.nl,,,,,,yes,,,,,node/5968387883
+Jachthaven Flevostrand,marina,52.38361,5.63531,,+31 320 288 480,,https://www.molecaten.nl/flevostrand/jachthaven,,850,,20,,,,,,,node/2104302835
+Jachthaven Four Seasons,marina,52.25682,4.71891,,,,https://www.jachthavenfourseasons.nl/,,,,,,,,,,,node/12778403480
+Jachthaven Fransen,marina,52.22137,5.31098,Eemnes,,,,,,,,,,,,,,way/244247224
+Jachthaven Friese Hoek,marina,52.83683,5.70756,,+31 514 568 135,,https://www.friesehoek.nl/,info@skipsmaritiem.nl,,,,,,,,,,node/2154682562
+Jachthaven Gelre,marina,52.13837,6.1932,,+31 575 519 580,,https://jachthavenzutphen.nl,havenmeester@jachthavenzutphen.nl,,,,,,,,,,way/136098077
+Jachthaven Giesbeek,marina,51.99681,6.06319,,,,https://www.wsvgiesbeek.nl/,post@wsvgiesbeek.nl,,,,,,,,,,node/855152283
+Jachthaven Hattem,marina,52.47857,6.06808,,+31 6 54946078,,https://www.ijsseldeltamarina.nl,,,,25,,,yes,,,,way/1253348538
+Jachthaven Havenkwartier Blauwestad,marina,53.16682,7.0357,,,,https://jachthavensblauwestad.nl/jachthavens/havenkwartier-blauwestad,,,,,,,,,,,way/295525833
+Jachthaven Het Anker,marina,52.20591,5.09453,Loosdrecht,,,,,,,,,,,,,,node/2865505002
+Jachthaven Het Swarte Schaar,marina_no_facilities,52.03639,6.16002,,+31 313 473 128,,http://www.zwarteschaar.nl/,info@zwarteschaar.nl,,,,,,,,,,node/4350577632
+Jachthaven Hindeloopen,marina,52.94545,5.40407,,,,https://www.skipsmaritiem.nl/nl/jachthavens/hindeloopen,,,,,,,,,,,way/141504952
+Jachthaven Hindeloopen,marina,52.94714,5.40418,,,,,,,,,,,,,,,node/2781110819
+Jachthaven Hoek,marina,52.72179,6.07624,,+31 521 362 022,,https://www.jachthavenhoek.nl,,,,,,,,,,,node/4095258469
+Jachthaven Hunzegat,marina,53.34035,6.29481,,+31 595 402 875,,https://www.hunzegat.nl/,info@hunzegat.nl,,,,,,,,,,way/106928669
+Jachthaven IJsselstrand,marina,52.02884,6.1591,,,,,,,,,,,,,,,way/203282423
+Jachthaven Iselmar,marina,52.85095,5.68627,,+31 514 569 096,,https://www.iselmar.nl/nl/jachthaven/,jachthaven@iselmar.nl,,,,,,,,,,way/85031649
+Jachthaven It Soal,marina,52.96571,5.41979,,+31 515 542 937,,https://www.itsoal.nl,marina@itsoal.com,,,,,,,,,,node/641098770
+Jachthaven Jonkman,marina,52.21995,4.54556,,,,https://www.jachthavenjonkman.nl,,,,,,,,,,,way/527018326
+Jachthaven Juffermans,marina,52.18844,4.50514,,,,,,,,,,,,,,,way/860233522
+Jachthaven KZ&RV Neptunus,marina,53.33045,6.93078,,+31 596 616 560,,http://www.mbv-abeltasman.nl/index.php/nl/,secretaris@mbv-abeltasman.nl,,,,,,,,,,way/109141846
+Jachthaven Kaap Hoorn,marina,53.04528,5.78081,,,,https://jachthavenkaaphoorn.nl/,info@jachthavenkaaphoorn.nl,,,,,,,,,,way/1236145709
+Jachthaven Kaap Hoorn,marina,53.18001,6.55579,,,,https://www.jachthavenzuidwesthoek.nl/,,,,,,,,,,,node/14110963527
+Jachthaven Katwijk,marina,52.20486,4.41312,,,,https://www.jachthavenkatwijk.nl/,havenmeester@jachthaven-katwijk.nl,,,,,,,,,,way/97452846
+Jachthaven Kempers,marina,52.2281,4.68522,,+31 172 503 000,,https://www.kemperswatersport.nl/,,500,,,,yes,,,,,way/1302853584
+Jachthaven Ketelmeer,marina,52.58029,5.76241,,,,https://www.jachthavenketelmeer.nl/,info@jachthavenketelmeer.nl,,,,,,,,,,way/167698862
+Jachthaven Keyzerskroon,marina,51.98616,5.04849,,,,http://www.campingkleinscheveningen.nl/site/jachthaven.html,info@campingkleinscheveningen.nl,,,,,,,,,,way/68187627
+Jachthaven Kleine Belterwiede,marina,52.67138,6.05939,,,,,,,,,,,,,,,node/1788579649
+Jachthaven Koostertille,marina,53.21233,6.10045,,,,,,,,,,,,,,,node/2883684001
+Jachthaven Kroeze,marina,52.23172,5.30796,Eemnes,,,https://jachthavenkroeze.nl/,,,,,,,,,,,way/244299757
+Jachthaven Kudelstaart,marina,52.23696,4.74755,,+31 297 745 580,,https://www.jachthavenkudelstaart.nl/,,250,,,,yes,,,,,node/3861269290
+Jachthaven Lauwersmeer - Oostmahorn,marina,53.38293,6.15805,,+31 511 408 100,,https://www.jachthavenlauwersmeer.nl/,info@jachthavenlauwersmeer.nl,,,,,,,,,,way/148271054
+Jachthaven Lelystad Haven,marina,52.50096,5.41377,Lelystad,+31 320 260 326,,https://lelystadhaven.nl/,,,,,,,,,,,node/2925799210
+Jachthaven Lochem,marina,52.16719,6.3823,,,,,,,,,,,,,,,node/972945829
+Jachthaven Lockhorst,marina,52.19164,4.4984,,,,https://www.lockhorst.nl,,,,,,,,,,,way/97401169
+Jachthaven Lunegat,marina,53.31743,6.16673,,,,https://www.lunegat.nl,,,,,,yes,,yes,yes,,way/802306546
+Jachthaven Lutsmond,marina,52.90424,5.59849,,,,https://www.jachthavenlutsmond.nl/,,,,,,,,,,,way/84120864
+Jachthaven Maran,marina,53.01237,5.7856,,,,,,,,,,,,,,,node/844151626
+Jachthaven Marina Volendam,marina,52.48873,5.06464,,+31 299 320 262,,https://www.marinavolendam.nl,info@marinavolendam.nl,,,,,,,,,,way/51203175
+Jachthaven Marnemoende,marina,52.04508,5.02194,,,,,,,,,,,,,,,way/196208552
+Jachthaven Meerewijck,marina,52.22664,4.66307,,,,,,,,,,,,,,,node/59647500
+Jachthaven Meermolen,marina,52.56127,4.85985,,,,,,,,,,,,,,,way/1305035551
+Jachthaven Meerzicht,marina,52.20361,4.66739,,,,,,,,,,,,,,,way/96341611
+Jachthaven Meerzicht,marina,53.11144,6.69645,,,,,,,,,,,,,,,way/115489263
+Jachthaven Midwolda,marina,53.1954,7.03097,,+31 6 52307528,,https://jachthavensblauwestad.nl/jachthavens/jachthaven-midwolda,info@watersportbedrijfhuningas.nl,,,,,,,,,,way/114467995
+Jachthaven Molenstreek,marina,53.1028,6.88244,,+31 598 652 450,,https://www.veendam.nl/Onderwerpen/Recreatie_sport_en_ontspanning/Vaarrecreatie,,,,,,,,,,,way/814999568
+Jachthaven Molenstreek,marina,53.10426,6.88046,,,,https://www.veendam.nl/Onderwerpen/Recreatie_sport_en_ontspanning/Vaarrecreatie,,,,,,,,,,,way/1065143296
+Jachthaven Naarden,marina,52.30974,5.14534,,,,https://www.jachthavennaarden.nl/faciliteiten/camper-trekkersveld/,,,,,,yes,,,,,node/2291848498
+Jachthaven Naarden,marina,52.31089,5.14903,,+31 35 695 6050,,https://www.jachthavennaarden.nl/,info@jachthavennaarden.nl,1200,,,,,,,,,way/74584457
+Jachthaven Nauerna,marina,52.43796,4.75191,,,,https://jachthavennauerna.nl/,,,,,,,,,,,way/415633186
+Jachthaven Nieuwboer,marina,52.26255,5.37105,,+31 33 298 2306,,https://www.jachthavennieuwboer.nl/,,,,,,,,,,,node/1268567698
+Jachthaven Nijesyl,marina,53.01017,5.60742,,,,,,,,,,,,,,,way/714590295
+Jachthaven Noordwijk,marina,52.22786,4.4639,,,,,,,,,,,,,,,way/97467783
+Jachthaven North-Line Yachts,marina,53.17658,5.44826,,+31 517 391 054,,https://www.north-line.nl/,info@north-line.nl,,,,,,,,,,way/888601786
+Jachthaven Olympia (Takkenberg),marina,52.34244,4.84889,,,,,,,,,,,,,,,way/25688063
+Jachthaven Oosterhaven,marina,53.21631,6.57704,,,,https://www.jachthavenoosterhaven.nl,,,,,,,,,,yes,node/1366598504
+Jachthaven Oude Pekela,marina,53.11399,7.02681,,,,,,,,,,,,,,,way/100235924
+Jachthaven Oude Veer,marina,52.85783,4.83794,,,,,,,,,,,,,,,node/664510783
+Jachthaven Piet Hein,marina,52.20135,5.06459,,,,https://www.piethein.nl,,,,,,,,,,,way/187173559
+Jachthaven Piet Hein,marina,52.37243,4.94592,,,,https://www.nautiek.com/haven,,,,,,,,,,,way/187166606
+Jachthaven Plaatselijk Belang Oosterzee,marina,52.8771,5.77633,,,,,,,,,,,,,,,node/4381171211
+Jachthaven Pluto,marina,52.94751,4.77865,,+31 223 865 827,,http://www.jachthavenpluto.nl,,,,,,,,,,,way/849107411
+Jachthaven Poelgeest,marina,52.18156,4.49032,,,,,,,,,,,,,,,way/24597332
+Jachthaven Recreatiepark Idskenhuizen,marina,52.92958,5.70907,,+31 513 431 846,,https://www.rp-idskenhuizen.nl/2-Jachthaven.html,info@rp-idskenhuizen.nl,,,,,,,,,,way/85033586
+Jachthaven Reiderhaven,marina,53.15974,7.07528,,+31 6 53739742,,https://www.reiderhaven.nl,info@reiderhaven.nl,,,,,,,,,,way/820398187
+Jachthaven Reitdiep,marina,53.23608,6.52483,,+31 6 34477366,,https://www.reitdiephaven.nl/jachthaven.html,info@reitdiephaven.nl,,,,,,,,,,way/127077125
+Jachthaven Rekreatiepark Aalsmeer Poelzijde,marina,52.25777,4.72465,,+31 297 322113,,https://rp-aalsmeer.nl/nl/jachthaven,info@rp-aalsmeer.nl,,,,,,,,,,node/12778403482
+Jachthaven Ried,marina,53.22463,5.59173,,+31 517 269 297,,https://www.it-kattegat.nl/,mennievanreeuwijk@hotmail.com,,,,,,,,,,way/201811328
+Jachthaven Rijnsburg,marina,52.19824,4.4376,,+31 71 407 9682,,https://marinarijnsburg.nl/,info@marinarijnsburg.nl,,,,,,,,,,way/97357216
+Jachthaven Riva/WV Langeraar,marina,52.19205,4.71,,,,https://wsvl.com,,,,,,,,,,,way/474329685
+Jachthaven Rivièra Beach,marina,52.44529,5.80325,,+31 6 43394438;+31 88 070 8193,,https://www.jachthavenriviera.nl/,,300,,,,,,,,,way/166970160
+Jachthaven Schellingwoude,marina,52.37801,4.97256,,,,,,,,,,,,,,,node/6170846514
+Jachthaven Schiermonnikoog,marina,53.46907,6.16714,,,31,https://waddenhavenschiermonnikoog.nl/,,,,,,,,,,,way/429604743
+Jachthaven Schipperskwartier,marina,53.08628,6.86901,,+31 598 616 315,,https://www.schipperskwartier.nl/index.html,info@schipperskwartier.nl,,,,,,,,,,node/2162447639
+Jachthaven Schipsloot,marina,52.88611,5.98597,,,,,,,,,,,,,,,way/1152719705
+Jachthaven Sneekerhof,marina,53.04777,5.77178,,,,,,,,,,,,,,,node/4519778739
+Jachthaven Sneekerhof,marina,53.04851,5.77111,,+31 566 689 595,,https://www.sneekerhof.nl,info@sneekerhof.nl,,,,,,,,,,way/88649504
+Jachthaven Stedum,marina_no_facilities,53.31993,6.69513,,,,,,,,,,,,,,,way/963996193
+Jachthaven Stenhuis,marina,52.25484,4.71771,,+31 297 325 081,,https://www.jachthavenstenhuis.nl,,,,,,,,,,,node/3866134359
+Jachthaven Stichting Muiden,marina,52.333,5.07084,,,,https://jachthavenmuiden.nl/,,,,,,,,,,,way/306824567
+Jachthaven Strand Horst,marina,52.31659,5.5647,,,,https://www.strandhorst.com/,,,,,,,,,,,node/14015570901
+Jachthaven Suwâld,marina,53.17157,5.93429,,,,,,,,,,,,,,,way/136163909
+Jachthaven Tacozijl,marina,52.8514,5.68411,,+31 514 562 003,,https://www.tacozijl.nl/watersportcentrum/jachthaven-tacozijl,info@tacozijl.com,,,,,,,,,,node/2154631095
+Jachthaven Tas,marina,52.2611,4.73861,,+31 297 320 484,,https://www.jachthaventas.nl/,,,,,,,,,,,node/3864844592
+Jachthaven Terwolde,marina,52.29942,6.10002,,,,https://www.succesholidayparcs.nl/de-scherpenhof,,,,,,,,,,,way/60673961
+Jachthaven Uitgeest,marina,52.52797,4.72373,,,,,,,,,,,,,,,way/446680859
+Jachthaven Van Asselt,marina,52.21254,4.55523,,,,,,,,,,,,,,,node/3529202836
+Jachthaven Veendiep,marina,53.0991,7.13804,,,,https://www.jachthaven.nl/groningen/jachthaven-veendiep-vriescheloo,,,,,,,,,,,way/1187689499
+Jachthaven Vos,marina,52.72135,6.07614,,+31 6 23471804,,http://jachthavenvos.nl/de/wilkommen/,,,,,,,,,,,node/4095254241
+Jachthaven Vos,marina,52.72304,6.07631,,,,,,,,,,,,,,,way/90027505
+Jachthaven W.v. Watervogels,marina,52.20648,5.10041,Loosdrecht,,,https://www.dewatervogels.nl/,,,,,,,,,,,node/2865499371
+Jachthaven WSV DE Eemkruisers,marina,52.16669,5.37431,,,,https://www.eemkruisers.nl,,,,,,,,,,,way/75442009
+Jachthaven Waardeiland,marina,52.15581,4.51536,,,,http://jachthavenwaardeiland.nl/,,,,,,,,,,,way/817637560
+Jachthaven Wassenaar,marina,52.15159,4.41243,,,,,,,,,,,,,,,way/97378249
+Jachthaven Welgelegen,marina,52.18215,4.48956,,,,https://jachthavenwelgelegen.nl/,,,,,,,,,,,way/1015479730
+Jachthaven Westend,marina,52.20035,5.06396,,,,,,,,,,,,,,,way/187173834
+Jachthaven Westerdijk,marina,53.13351,5.94539,,,,,,,,,,,,,,,way/167106458
+Jachthaven Willemsoord,marina,52.96125,4.7716,,,,https://www.jachtwerfwillemsoord.nl/,,,,,,,,,,,way/960962183
+Jachthaven Winkeloord,marina,52.25314,4.95408,,,,,,,,,,,,,,,way/234160908
+Jachthaven Winschoten,marina,53.1435,7.04875,Winschoten,,,,,100,,,,yes,,,,,way/115475434
+Jachthaven Winsum,marina,53.15088,5.62995,,,,,,,,,,,,,,,node/2277016529
+Jachthaven Woerden,marina,52.08737,4.88225,,,,,,,,,,,,,,,node/2096578463
+Jachthaven Woudwetering,marina,52.17417,4.63553,,,,http://www.jachthavenwoudwetering.nl,,,,,,,,,,,way/806688275
+Jachthaven ZC'37,marina,52.56942,5.90933,,,,,,,,,,,,,,,node/623912429
+Jachthaven Zuidbroek,marina,53.16133,6.86214,,,,,,,,,,,,,,,way/121816876
+Jachthaven Zuidwesthoek,marina,53.16071,6.56567,Haren Gn,+31 50 309 4444,,https://www.jachthavenzuidwesthoek.nl/,info@jachthavenzuidwesthoek.nl,,,,,,,,,,way/93802879
+Jachthaven Zwaansmeerpolder,marina,52.5284,4.7365,,,,,,,,,,,,,,,way/446680860
+Jachthaven Zwanengat,marina,52.18498,4.49212,,,,,,,,,,,,,,,way/860247344
+Jachthaven Zwartkruis,marina,53.22224,6.03081,,+31 511 465 170;+31 511 472 197,,https://www.zwartkruis.nl,info@zwartkruis.nl,,,,,,,,,,way/225703435
+Jachthaven de Appelhof,marina,53.11046,5.58708,,,,,,,,,,,,,,,way/986018247
+Jachthaven de Brasem,marina,52.20507,4.64737,,,,https://www.jachthavendebrasem.nl/index.php/nl/,,,,,,,,,,,node/3862876009
+Jachthaven de Greft,marina,52.09181,4.86295,,,,https://www.degreft.nl,,,,,,,,,,,way/804838897
+Jachthaven de Hemrik,marina,53.19145,5.84391,,+31 58 785 0439,,https://jachthavendehemrik.nl/,info@jachthavendehemrik.nl,,,,,,,,,,way/956691773
+Jachthaven de Klokkenstoel,marina,53.01042,5.7686,,,,,,,,,,,,,,,way/136173540
+Jachthaven de Koevoet,marina,52.93561,5.69137,,+31 513 431 685,,https://www.dekoevoet.nl/items/Haven2.htm,,,,,,max 6A,,,,,way/85033584
+Jachthaven de Kranerweerd,marina,52.645,6.08632,,+31 38 386 7351,,https://kranerweerd.nl/de,info@kranerweerd.nl,,,,,,,,,,way/672309893
+Jachthaven de Leyen,marina,53.15582,6.08058,,,,,,,,,,yes,,,,,node/1433734381
+Jachthaven de Mars,marina,51.99688,6.03923,,,,,,,,,,,,,,,node/855152234
+Jachthaven de Meerkant,marina,52.18714,4.63225,Roelofarendsveen,,,https://www.jachthavendemeerkant.nl/,,80,,,,,,,,,way/467009753
+Jachthaven de Rijd,marina,53.28674,6.15162,,,,https://www.wsvkollum.nl,,,,,,yes,,yes,yes,,way/129916985
+Jachthaven de Roggebot,marina,52.54719,5.85746,,,,,,,,,,,,,,,way/1313484514
+Jachthaven de Runde,marina,52.87109,7.07279,,+31 599 850 953,,https://jachthaventerapel.nl,info@jachthaventerapel.nl,,,,,,,,,,way/851791179
+Jachthaven de Stuw,marina,52.16549,5.37782,,,,https://jachthavendestuw.nl/,,,,,,,,,,,way/967231404
+Jachthaven de Veenhoop,marina,53.09833,5.9465,,,,,,,,,,yes,yes,,,,node/3835623184
+Jachthaven de Veerstal,marina,52.0068,6.05461,,+31 313 631 319,,https://nl.deveerstal.nl,,,,,,,,,,,node/857396170
+Jachthaven en Watersport de Poel,marina,52.22867,4.55146,,,,,,,,,,,,,,,way/412155169
+Jachthaven t' Drijfhuis,marina,52.26277,4.7465,,+31 297 322 211,,https://www.drijfhuis.nl/,,,,,,,,,,,node/3863912695
+Jachthaven van Wijk,marina,52.1789,4.62955,,,,https://www.jachthavenvanwijk.nl,,,,,,,,,,,way/792690865
+Jachthaven van der Zwaard,marina,52.25681,4.72124,,+31 297 325008,,http://www.vdzwaardjachtwerf.nl,info@vdzwaardjachtwerf.nl,,,,,,,,,,node/12778403481
+Jachthavenbedrijf Persoon,marina,52.25984,4.72968,,,,,,,,,,,,,,,way/96374733
+Jachtservice Breukelen,marina,52.20619,5.09122,,,,,,,,,,,,,,,node/2415133563
+Jachtwerf Allemansgeest,marina,52.13408,4.46771,,,,https://www.jachtwerfallemansgeest.nl/,,,,,,,,,,,way/95708021
+Jachtwerf Atlantic,marina,53.17518,5.43399,Harlingen,,,https://www.atlanticyachts.nl/jachthaven/,,,,,,,,,,,way/1292424696
+Jachtwerf Kosik,marina,53.17578,5.44607,,,,https://www.koningshaven.frl/,info@kosikjachtwerf.nl,,,,,,,,,,node/2167047607
+Jachtwerf Leechlân,marina,53.11416,5.83923,,,,https://www.jachtwerfleechlan.nl/,,,,,,,,,,,way/1364317174
+Jachtwerf Maronier,marina,52.84231,5.70911,,+31 514 563 300,,https://www.maronier.nl,jachtwerf@maronier.nl,,,,,,,,,,node/2154682573
+Jachtwerf van der Werff,marina,53.15415,5.84372,Wergea,,,https://jachtwerfvdwerff.nl/,,,,,,,,,,,way/1010990375
+Joustersluis,marina,52.97953,5.76221,,,,,,,,,,no,,,,,node/2313083304
+Juist,ferry,53.67346,6.99654,,,,,,,,,,,,,,,node/279345800
+KMJC Den Helder,marina,52.96254,4.78198,,+31 223 652 645,,https://www.kmjc.eu/index.html,info@kmjc.eu,,,,,,,,,,way/863230287
+KNZ&RV,marina,52.3352,5.06884,,,,,,,,,,,,,,,way/40030254
+KWV de Kaag,marina,52.1965,4.53658,,,,,,,,,,,,,,,way/230548354
+Kadoelenwerf,marina,52.41011,4.90554,,,,https://www.kadoelenwerf.nl/,,,,,,,,,,,way/954765371
+Karperskuyl,marina,52.63973,5.06746,,,,,,,,,,,,,,,way/90113190
+Katwolderhaven,yes,52.51907,6.06898,,,,,,,,,,,,,,,way/86841254
+Kensoor,marina,52.98937,5.88441,,,,,,30,,,,yes,,,,private,node/5794295846
+Kids Haven,marina,52.38009,4.53804,,,,,,,,,,,,,,,node/11877449761
+Klukkert-Hafen,marina,52.42214,7.07095,,,,,,,,,,,,,,,way/33637874
+Kokernoot,marina,52.41889,4.85442,Zaandam,+31 85 500 8113,,,,,,,,,,,,,node/13526713621
+Komplaats 1,marina_no_facilities,52.13804,6.19315,,,,,,,,,,,,,,,node/13290439968
+Komplaats 2,marina_no_facilities,52.13801,6.19308,,,,,,,,,,,,,,,node/13290439969
+Komplaats 3,marina_no_facilities,52.13798,6.19301,,,,,,,,,,,,,,,node/13290439970
+Komplaats 4,marina_no_facilities,52.13814,6.19274,,,,,,,,,,,,,,,node/13290439971
+Korte Hoofd,marina,53.33799,6.29653,,,,,,,,,,,,,,,node/2203486083
+Kortenhoef,marina,52.22578,5.08081,,,,https://jachthavenkortenhoef.nl/,,,,,,,,,,,way/1304075792
+Kotting-Anleger,marina,52.43402,7.10172,,,,,,,,,,,,,,,way/188071771
+Kozakkenhaven,marina,52.37484,6.09244,,,,https://www.kozakkenhaven.nl/,,,,,,yes,,,,,node/3553847211
+Krabbershaven,marina,52.69717,5.28723,,,,https://www.buyshaven.nl/,,,,,,,,,,,way/238795009
+Kudelstaart,marina,52.24916,4.7556,,,,,,120,,,,,,,,,node/7194937396
+Kuperus Watersport,marina,52.98147,5.44965,,,,,,,,,,,,,,,node/506434829
+Lange Hoofd,marina,53.33768,6.29561,,,,,,,,,,,,,,,node/2203486097
+Langeoog,ferry,53.72353,7.50227,,,,,,,,,,,,,,,node/3523619523
+Lauwersgat,marina,53.39968,6.21895,,,,,,,,,,,,,,,node/5803775414
+Leeuwarder Jachthaven,marina,53.19878,5.82917,,,,https://www.leeuwarderjachthaven.nl/,,,,,,,,,,,way/993718282
+Lelystad Haven,marina,52.50243,5.41248,,+31 320 260 326,,https://lelystadhaven.nl/,,,,,,,,,,,way/95750774
+Lemmer Binnen,marina,52.84748,5.69455,,+31 514 561 979,,https://lemmerbinnen.nl/,,,,,yes,yes,yes,,yes,,way/85031652
+Leybucht,marina,53.50666,7.10857,,,,http://www.leybucht-sportboot.de,info@Leybucht-Sportboot.de,,,,,,,,,,node/1524470046
+Liegestelle für Hafenrundfahrt,marina,53.08783,7.38601,,,,,,,,,,,,,,,node/1398617291
+MCS Terminal Westerbroek,cargo,53.17478,6.69057,,,,https://www.mcs-bv.nl/,,,,,,,,,,,way/923762701
+MWR Reeuwijk,marina,52.03864,4.72153,,,,,,,,,,,,,,,relation/20574609
+Marina Blaue Donau,marina,52.79606,7.26285,,+49 152 28026122,,http://mbc-blaue-donau-raken.npage.de/,,,,,,,,,,,node/2074472443
+Marina De Koggeplaet,marina,52.92925,5.54167,,,,,,,,,,,,,,,way/84118599
+Marina Den Oever,marina,52.92385,5.04574,,+31 227 511 789,,https://www.marinadenoever.nl/,info@marinadenoever.nl,,,,,,,,,,way/108802293
+Marina Emden,marina,53.34296,7.1932,,,,,,,,,,,,,,,way/129394080
+Marina Emden,marina,53.36324,7.2076,Emden,+49 180 5 180182,,https://www.emden-touristik.de/uebernachten/unterkunft/poi/bootsliegeplatz-alter-binnenhafen-marina-emden.html?cHash=4c2eb9f735,,,,,,,,,,,way/103453192
+Marina Friesland,marina,52.88897,5.41819,,,,,,,,,,,,,,,node/1878206317
+Marina Groet/Schoorl,marina,52.72644,4.66279,,,,,,,,,,,,,,,node/2494423481
+Marina Harlesiel,marina,53.70438,7.8094,,,,,,,,,,,,,,,node/431047254
+Marina Hotel am Wasserfall,marina,52.4699,7.30581,,,,https://www.hotel-am-wasserfall.de/de/index.html,,,,,,,,,,,node/2054609213
+Marina Kaap Hoorn,marina,52.64071,5.08119,,,,https://marinakaaphoorn.nl,,,,,,,,,,,way/812673289
+Marina Lachswehr Wasserfahrer,marina,52.81067,4.99048,,,,,,,,,,,,,,,node/506440504
+Marina Makkum,marina,53.05384,5.38781,,+31 515 231 344,,https://www.hollepoarte.nl,info@hollepoarte.nl,,,,,,,,,,way/466883280
+Marina Monnickendam,marina,52.46222,5.03863,,,,https://www.monnickendam.nl,,,,,,,,,,,way/47895492
+Marina Muiderzand,marina,52.34014,5.13255,,+31 36 536 9151,,https://www.marinamuiderzand.nl/,info@marinamuiderzand.nl,,,,,,,,,,way/391433697
+Marina Resort Uitdam,marina,52.42768,5.07551,,+31 20 403 1433,,https://www.campinguitdam.nl,,,,,,,,,,,way/103315331
+Marina Schokkerstrand,marina,52.61181,5.74798,,+31 527 652 797,,https://www.marinaschokkerstrand.nl/,,,,,,,,,,,way/139842818
+Marina Seaport IJmuiden,marina,52.45901,4.56153,,,,https://www.marinaseaport.nl/nl/,,,,,,,,,,,relation/1521138
+Marina Seaport IJmuiden,marina,52.45901,4.56153,,+31 255 560 300,,https://www.marinaseaport.nl/,info@marinaseaport.nl,,,,,,,,,,way/106684570
+Marina Segelvereins Speichersee Emsland,marina,52.58735,7.28219,,+49 5907 1777,,https://svse.de/,Info@svse.de,,,,,,,,,,node/2074472444
+Marina de Horne,marina,53.0428,5.77581,,,,https://www.terhernenautic.nl/jachthaven/,info@terhernenautic.nl,,,,,yes,,,,,way/1472493265
+Marinapark Aquaronde in Lemmer,marina,52.85628,5.6947,,+31 6 28470224,,https://www.aqua-state.nl/vakantieparken/park-aquaronde-lemmer-friesland-nl,info@aqua-state.nl,,,,,,,,,,node/2155781504
+Marinapark Emstal,marina,52.9296,7.29109,,+49 4963 910810,,http://www.marinapark.de/,info@marinapark.de,,,,,,,,,,node/2054656494
+Marine Watersport Vereniging (MWV),marina,52.95268,4.78051,,,,http://www.marinewatersport.nl,,,,,,,,,,,way/1068215592
+Marken,marina,52.45801,5.10017,,,,,,,,,,,,,,,way/249516883
+Marker Wadden,marina,52.58187,5.36881,,,,https://www.natuurmonumenten.nl/projecten/marker-wadden/welkom-op-marker-wadden,,,,,,,,,,,way/1196166117
+Marshaven,marina;cargo,52.1548,6.18928,,,,,,,,,,,,,,,way/59366483
+Meldsteiger plaats,marina_no_facilities,52.13822,6.19256,,,,,,,,,,,,,,,node/13290439972
+Middenhaven,marina,52.77102,5.10895,,,,,,,,,,,,,,,node/1306457785
+Moby Dick,marina,52.23198,5.09434,,,,https://www.watersportbedrijfmobydick.nl/,,,,,,,,,,,relation/17878580
+Motorboot Club Groningen,marina,53.22243,6.59398,,+31 50 314 1728,31,https://www.groningermotorbootclub.nl/,,,,,,yes,,,,,way/127077120
+Multiship Harlingen,marina,53.17365,5.45365,,,,,,,,,,,,,,,node/2242761555
+Museumhaven,marina_no_facilities,52.70568,5.2991,,,,,,,,,,no,,,,private,way/1066811749
+Museumshafen Carolinensiel,marina,53.69184,7.80197,,,,,,,,,,,,,,,node/431070971
+Mûnehiem,marina,53.29653,5.88216,,+31 519 332 342,,https://campinghavenburdaard.nl/,tollenaarmolenmeel@ziggo.nl,,,,,,,,,customers,way/325864951
+N-Ports,marina,53.72439,7.36592,,,,,,,,,,,,,,,node/797667169
+N-Ports Norddeich,marina,53.62236,7.15905,,,,,,,,,,,,,,,node/431070286
+Nerushoek,marina,53.03988,5.78579,,,,,,,,,,,,,,,node/4011467321
+Neuharlingersiel,marina,53.70125,7.70547,,,,,,,,,,,,,,,node/431047295
+Neuharlingersieler Yacht-Club,marina,53.70278,7.70639,,+49 4974 479,,https://neuharlingersieler-yachtclub.net/,info@neuharlingersieler-yachtclub.de,,,,,,,,,,node/2104285533
+Nienoord Haven,marina,53.16477,6.39721,,,,,,,,,,yes,,,,,way/93079312
+Nieuwe Buitenhaven,marina,52.56381,5.91027,,+31 38 332 3533,,https://www.wsvdebuitenhaven.nl,havenmeester@wsvdebuitenhaven.nl,,,,,,,,,,way/86841058
+Nieuwe Haven,marina,51.99904,4.36739,,,,,,,,,,,,,,,node/480470725
+Nieuwe Haven,marina,52.2553,5.38159,,,,,,,,,,,,,,,node/6246330413
+Nieuwe Kade,marina,53.09787,5.84005,,,,,,,,,,,,,,,way/1321437255
+Nieuweaanlegede haven te Drachten,marina,53.11518,6.06083,,,,,,,,,,,,,,private,node/5783697098
+Nieuweaanlegede haven te Drachten,marina,53.11531,6.05478,,,,,,,,,,,,,,private,node/5783697097
+Noordergat,marina,53.40562,6.20501,,+31 519 349 040,,https://www.noordergat.nl/,havenmeester@noordergat1.nl,,,,,,,,,,way/148271053
+Noorderhaven,fishing,52.93582,5.0364,,+31 88 3215000,,,contact@hollandskroon.nl,,,,,,,,,,way/1389032979
+Noorderhaven,marina_no_facilities,53.02102,5.20382,,,,,,,,,,,,,,,way/1191839930
+Noorderhaven,passenger,53.03996,4.85023,,,12,,,,,,,,,,,,way/734776263
+Nordsee-Yacht-Club-Nessmersiel,marina,53.68419,7.36056,,+49 157 74169213,,https://www.nycn.de,johannesfeldmann@t-online.de,,,,,,,,,,node/431047416
+Onklaar Anker,marina,52.3346,4.83049,Amsterdam,+31 6 81211695,,https://www.onklaaranker.nl/,havenmeesteronklaaranker@gmail.com,,,,,,,,,,way/100546462
+Oosterhaven,marina,52.77224,5.11093,,,,,,,,,,,,,,,node/521313322
+Oostrum haven,marina,53.32495,6.05614,,,,,,,,,,,,,,,node/5808010838
+Oostvaardersdiep,marina,52.42085,5.22048,,,,,,,,,,,,,,,way/645321330
+Openbare steiger Wedde,marina,53.06856,7.07003,,,,,,,,,,,,,,,way/967202294
+Ottenhome,marina,52.22872,5.07526,,,,,,,,,,,,,,,way/981207271
+Oude Buitenhaven,marina,52.56299,5.91142,,+31 38 332 3533,,https://www.wsvdebuitenhaven.nl,havenmeester@wsvdebuitenhaven.nl,,,,,,,,,,way/86840864
+Oude Dorp Uithoorn,marina,52.23296,4.83333,,,,,,,,,,,,,,,node/1370185886
+Oude Haven,marina,52.25489,5.37972,,,,,,,,,,,,,,,node/6246330412
+Oude Haven Oosterzee,marina,52.87645,5.7754,,,,,,,,,,,,,,,node/8571880839
+Ouwehand's Jachtwerf,marina,53.17348,5.45533,,,,https://www.jachtwerfouwehand.nl/,,,,,,,,,,,way/1014132404
+"Overmeer, jachthaven",marina,52.25255,5.04423,,,,,,,,,,,,,,,node/2101902826
+Pampushaven,marina,52.39061,5.14159,,,,,,,,,,,,,,,way/80177697
+Park Brekkense Wiel,marina,52.85255,5.68845,,+31 6 28470224,,https://www.aqua-state.nl/zoekresultaten?layout=group&id=1,info@aqua-state.nl,,,,,,,,,,node/2155781505
+Parkhaven,marina,52.53517,5.44434,,,,,,,,,,,,,,,way/966444514
+Parkhaven,marina,53.10531,6.08047,,,,,,,,,,,,,,,node/12082959194
+Passantenhafen Earnewald,marina,53.12815,5.93615,,,,,,,,,,,,,,,node/4118851371
+Passantenhaven,marina,52.14995,4.78027,,,,,,,,,,,,,,,way/820391528
+Passantenhaven,marina,52.16132,4.50201,,,,https://gemeente.leiden.nl,,,,,,,,,,,way/215357086
+Passantenhaven,marina,52.16495,6.42141,,,,,,,,,,,,,,,way/192280566
+Passantenhaven,marina,52.45302,6.57336,,,,,,,,,,,,,,,node/1351751663
+Passantenhaven,marina,52.51304,6.08733,,,,,,,,,,,,,,,node/444695844
+Passantenhaven,marina,52.51553,6.09128,,,,,,,,,,,,,,,node/444695847
+Passantenhaven,marina,52.527,5.9598,,,,https://www.wilsum.info/dorpsbelangen/dorpsbelangen-haven.html,,,,,yes,,,,,,node/857397301
+Passantenhaven,marina,52.5943,6.09003,,,,,,,,,,,,,,,node/444695838
+Passantenhaven,marina,52.84409,6.33876,,,,,,,,,,,,,,,way/816608922
+Passantenhaven,marina,53.25115,6.02578,,,,,,,,,,,,,,,node/5808825235
+"Passantenhaven ""de Hemmen""",marina,52.18643,4.64115,,,,https://www.vanleersum.com/recreatiegebied-en-passantenhaven-de-hemmen,,,,,,,,,,,way/466829109
+Passantenhaven Akkrum,marina,53.05145,5.83332,,,,,,,,,,yes,,,,,node/4118863670
+Passantenhaven Alkmaar,marina,52.62775,4.75446,,,,,,,,,,,,,,,node/3431980428
+Passantenhaven Almelo,marina,52.36,6.65567,,,,,,,,,,,,,,,node/1366599429
+Passantenhaven Baflo,marina,53.36471,6.51803,,,,,,,,,,,,,,,node/2178333476
+Passantenhaven Balk,marina,52.90043,5.58823,,+31 6 51150589,,,,,,,,,,,,,way/728856860
+Passantenhaven Catharijnesingel,marina,52.08566,5.11839,,,,https://www.ontdek-utrecht.nl/locatie/passantenhaven-catharijnesingel/,,,,,,,,,,,node/3569367793
+Passantenhaven Coevorden,marina,52.66194,6.74324,,,,,,,,,,,,,,,node/1351754576
+Passantenhaven Dalfsen,marina,52.50139,6.25678,,,,,,12,,,,,,,,,way/694993101
+Passantenhaven De Uutwiek (Turfroute),marina,52.94372,6.12027,,,,https://www.uutwiek.nl/,,,,,,,,,,,way/356929254
+Passantenhaven De Vaart,marina,52.99376,6.5581,,,,https://www.assen.nl/vrije-tijd/recreatie/varen-in-assen/havens,,,,,,yes,,,customers,customers,node/1368200359
+Passantenhaven Delft / De Kolk,marina,52.0053,4.36015,,,,,,,,,,,,,,,node/549139430
+Passantenhaven Doesburg,marina,52.0105,6.13222,,+31 6 55177509,,,,,,,,,,,,,node/530792598
+Passantenhaven Driewegsluis,marina,52.83598,5.93436,,,,,,,,,,yes,,,,,way/508379474
+Passantenhaven Earnewâld,marina,53.13054,5.94098,,,,,,,,,,,,,,,way/136163911
+Passantenhaven Heergerwâl,marina,52.96565,5.60369,,,,https://www.heegerwal.nl,,,,,,yes,,,,customers,way/530951010
+Passantenhaven Het Bos Roept,marina,52.89951,5.01703,,,,,,,,,,,,,,,node/5803563878
+Passantenhaven It Krúswetter,marina,53.1364,5.64737,,+31 517 341 040,,https://www.it-kruswetter.nl/passanten-haven/,info@it-kruswetter.nl,,,,,,,,,,way/1569516987
+Passantenhaven It Munerak,marina,53.36608,5.89989,,,,,,,,,,,,,,,node/620771751
+Passantenhaven Joure,marina,52.97077,5.79114,,,,,,,,,,,,,,,node/2313092280
+Passantenhaven Joure,marina,52.97194,5.789,,,,https://www.passantenhaven-joure.nl/,,,,,,yes,,,,,way/907791153
+Passantenhaven Katerveer,marina,52.50053,6.06025,,,,,,,,,,,,,,,node/855152630
+Passantenhaven Langweer,marina,52.96151,5.72173,,,,https://www.passantenhavenlangweer.nl,,,,,,,,,,,way/1200656097
+Passantenhaven Maagjesbolwerk,marina,52.51297,6.088,,,,,,50,,,,,,,,,way/493762852
+Passantenhaven Makkum,marina,53.05269,5.40296,,,,https://sudwestfryslan.nl,,,,,,yes,,,,,node/7797365372
+Passantenhaven Marsdijk,marina,53.02502,6.59176,,,,https://www.assen.nl/vrije-tijd/recreatie/varen-in-assen,,,,,,,,,,,node/1049934766
+Passantenhaven Meppel,marina,52.69527,6.18242,,,,,,,,,,,,,,,node/1368200370
+Passantenhaven Moleneind,marina,53.10625,6.09347,,,,,,26,,,,,,,,,way/367337046
+Passantenhaven Oldemarkt,marina,52.82446,5.96967,,,,,,,,,,yes,,,,,node/5823686639
+Passantenhaven Olstgracht,marina,52.36718,5.21453,,,,,,,,,,,,,,,way/204251205
+Passantenhaven Rodetorenplein,marina,52.51432,6.0901,,,,,,25,,,,yes,,,,,way/493762867
+Passantenhaven Sassenheim,marina,52.21632,4.51947,,,,,,,,,,,,,,,way/1013497047
+Passantenhaven Vollenhove,marina,52.68263,5.94678,,+31 6 20658979,,http://havensweerribbenwieden.nl/vollenhove/,,,,,,,,,,,way/497247108
+Passantenhaven Weerdsluis,marina,52.09692,5.11424,,,,,,,,,,yes,,yes,customers,,way/1420183411
+Passantenhaven Wijhe,marina,52.38692,6.12724,,,,https://www.deloswalwijhe.nl/passantenhaven,,,,,,,,,,,node/1366779207
+Passantenhaven Wâldsein,marina,52.94511,5.62904,,+31 514 591 525,,https://www.derakken.nl/de/,info@derakken.nl,,,,,,,,,,way/1188714937
+Passantenhaven de Zuiderkluft,marina,52.72045,6.07536,,+31 6 53624010,,https://havensweerribbenwieden.nl/giethoorn/,,,,,yes,yes,,yes,yes,,way/90026646
+Passantensteiger Winschoten,marina,53.14154,7.04581,,,,,,,,,,,,,,,node/1366601462
+Pedro-Boat,marina,53.161,6.84356,,+31 598 451 763,,https://www.pedro-boat.de,info@pedro-boat.nl,,,,,,,,,,node/2163968290
+Petkumer Wassersportverein,marina,53.33974,7.26904,,,,,,,,,,,,,,,node/3607506963
+Pierland,marina,52.39204,5.69153,,,,,,,,,,,,,,,node/12087147714
+Pikmeerhaven,marina,53.09461,5.84407,,,,,,,,,,yes,,,,,relation/18125557
+Plaspoelhaven,marina,52.08087,4.39476,,,,https://www.plaspoelhaven.nl/,,,,,,,,,,,way/95458762
+Plaszicht,marina,52.15191,4.7845,,,,https://www.tijstermanboten.nl/,,,,,,,,,,,node/664027206
+Poelgeest,marina,52.1807,4.48948,,,,,,,,,,,,,,,node/267395390
+Port Entrepôt Jachthaven,marina,52.36993,4.94616,,+31 6 11035681,,https://www.portentrepot.nl/,havenmeester@portentrepot.nl,,,,,,,,,,way/289723859
+Provinciale haven Bergum,yes,53.18468,5.994,,,,,,,,,,,,,,,way/668658484
+Provinciale haven te Oppenhuizen,yes,53.00216,5.71012,,,,,,,,,,,,,,,way/667930441
+RCN Zeewolde,marina,52.31192,5.54851,,+31 85 040 0700,,https://www.rcn.nl/nl/vakantieparken/nederland/flevoland/rcn-zeewolde,zeewolde@rcn.nl,,,,,,,,,,node/2104296011
+RZV Gouda,marina,52.03968,4.72189,,,,,,,,,,,,,,,way/1391856469
+Rawe-Anleger,marina,52.44026,7.08576,,,,,,,,,,,,,,,way/112872797
+Recr. Haven Schagen,marina,52.79103,4.78881,,,,,,,,,,,,,,,node/2886646222
+Recreatiecentrum Zwartewater,marina,52.6377,6.07456,,,,,,,,,,,,,,,way/369651339
+Recreatiehaven Broekhorn,marina,52.67245,4.81657,,,,,,,,,,,,,,,way/298260149
+Recreatiepark Hossebosch,marina,52.71718,4.83148,Heerhugowaard,,,,,,,,,,,,,,node/5762042950
+Recreatiepark Leyenspolder,marina,52.96352,5.72055,,,,https://www.leyenspolder.nl,,,,,,,,,,,way/1037380547
+Regatta Center Medemblik,marina,52.76964,5.11849,,+31 227 547 781,,https://www.regattacenter.com/,info@regattacenter.com,,,,,,,,,,way/601243700
+Rietvinkhaven,marina,52.08928,4.40711,,,,,,,,,,,,,,,way/96132463
+Rogat,marina_no_facilities,52.68947,6.26748,,,,,,10,,,,no,,,,,node/5073388771
+Rosandepolder,yes,51.97653,5.86816,,,,,,,,,,,,,,,way/59097589
+Ruderverein Leer von 1903,marina_no_facilities,53.22938,7.45746,,+49 491 3675,,http://www.ruderverein-leer.de/,Ruderverein-Leer@t-online.de,,,,,,,,,,node/2112539229
+Scaniahaven,yes,52.51563,6.06328,,,,,,,,,,,,,,,way/86841023
+Schuttevaer haven,marina,52.69612,6.1835,,,,,,,,,,,,,,,node/7137548221
+Schutzhafen Borkum,marina,53.5608,6.75019,,,,,,,,,,,,,,,node/431044599
+Scouting Leeghwatergroep Steiger,marina,52.32059,4.81764,,,,http://www.leeghwatergroep.nl/,,,,,,,,,,,node/2407933780
+Scouting Norvicus,marina,52.22887,4.46228,,,,,,,,,,,,,,,way/97456924
+Seehafen Leer,harbour,53.21628,7.45073,,,,,,,,,,,,,,,node/4924192063
+Segelclub Ochtrup Wettringen - SCOW,marina,52.27323,7.31701,,+49 2364 7378,,https://www.scow.de/,,,,,,,,,,,node/2116185178
+Segelverein Harlebucht,marina,53.67796,7.57108,,+49 4971 1744,,https://svh-bensersiel.de/,info@svh-bensersiel.de,,,,,,,,,,way/977804173
+Segelverein Speichersee Emsland e.V.,marina,52.58703,7.28138,Lingen (Ems),,,,,,,,,,,,,,way/55287138
+Seglerverein Langeoog,marina,53.72717,7.49763,,,,https://www.sv-langeoog.de/,,,,,,,,,,,node/431044439
+Seglerverein Leer,marina,53.21924,7.44904,,+49 171 2713228,,http://www.sv-leer.de,info@sv-Leer.de,,,,,,,,,,node/1754194010
+Simmerwille,marina,53.12907,5.93167,,,,https://www.simmerwille.nl/,,,,,,,,,,,way/1279654348
+Sixhaven,marina,52.38234,4.90648,,,,,,,,,,yes,,,,,way/1212605687
+SkipsMaritiem - Marina Stavoren,marina,52.87987,5.37269,,+31 514 684 684,,https://www.marinastavoren.nl/nl/marinastavoren,,,,,,,,,,,way/84789542
+SkipsMaritiem - Marina Stavoren Buitenhaven,marina,52.87457,5.36357,,+31 514 684 684,,https://www.marinastavoren.nl/nl/marinastavorenbuitenhaven,,,,,,,,,,,way/1144512373
+Sleepboothaven Leiden,marina,52.16207,4.49903,,,,https://www.fven.nl/leiden/,,,,,,,,,,,way/1103895029
+Slochterhaven,marina,53.21765,6.80599,,+31 598 416 200,,http://www.vvvslochteren.nl/infogids.php?cat=recreatie&sub=Jachthavens&id=104,,,,,,,,,,,node/2179636771
+Spaarneborghhaven,marina,52.35255,4.63433,,,,https://www.merlenhaven.nl/,,,,,,,,,,,way/1458678406
+Spanbroeker haven,marina,52.69845,4.94228,,,,,,,,,,,,,,,node/7255499233
+Spijkerboor,marina,52.2041,4.55716,,,,https://www.campingspijkerboor.nl/,,,,,,,,,,,way/1095673097
+Sportboot-Liegeplätze,marina,53.31676,7.2823,Jemgum,,,,,,,,,yes,,,,,node/4755592727
+Sportboot-Warteplatz Seeschleuse Papenburg,marina,53.10079,7.3659,,,,,,,,,,,,,,,node/1396846718
+Sportboot-Wartesteg Seeschleuse Papenburg,marina,53.10267,7.3639,,,,,,,,,,,,,,,node/1396835744
+Sportboothafen Barßel,marina,53.16793,7.73526,,+49 174 5459734,,https://www.barssel-saterland.de/kultur-und-freizeit/bootssport,,,,,,,,,,,node/431077971
+Sportboothafen Fresenburg,marina,52.88035,7.31112,,,,,,,,,,,,,,,way/205228535
+Sportboothafen Lathen,marina,52.86024,7.30099,,+49 5933 6643,,http://sg-lathen.de/gemeinden/samtgemeinde-lathen/,karl-heinz.weber@lathen.de,,,,,,,,,,node/431071929
+Sportboothafen Lathen,marina,52.87014,7.31297,,+49 5933 6643,,http://sg-lathen.de/gemeinden/samtgemeinde-lathen/,karl-heinz.weber@lathen.de,,,,,,,,,,node/2123711895
+Sportboothafen Recke,marina,52.35377,7.71083,,+49 5453 981022,,http://www.marina-recke.de/,info@marina-recke.de,,,,,,,,,,way/1049896106
+Sportboothafen Weener (Ems),marina,53.16688,7.3661,,+49 4951 1691,13,https://www.weener.de/index.php?sid=07f23cqhu3s3qitalsu27a2mqk4ud6d7&m=1&hid=283,,,,,,,,,,,node/371688640
+Sportboothafen am Ems-Seitenkanal,marina,53.33526,7.30708,,,,,,,,11,,,,,,,way/489381955
+Stadshaven,marina,53.20343,5.79205,,,,https://www.leeuwarden.nl/nl/haven-prinsentuin-leeuwarden,,,,,,,,,,,relation/14473593
+Stadshaven Amstelkwartier,marina,52.34176,4.91775,,,,http://stadshavenamstelkwartier.nl/,,,,,,,,,,,way/405888228
+Stadshaven Appingedam,marina,53.31885,6.8576,,+31 596 682 881,,https://www.jachthavenappingedam.nl,,,,,,,,,,,way/137386068
+Stadswerf Leeuwarden,marina,53.20683,5.79997,,,,https://stadswerfleeuwarden.frl/,,,,,,,,,,,way/684990064
+Stadthafen Aurich,marina,53.46446,7.47401,,,,,,,,,,,no,,,,way/218525860
+Staverno,marina,52.37608,4.87678,,,,,,,,,,,,,,,way/1304899732
+Staverno Nassaukade,marina,52.37996,4.87889,,,,http://www.staverno.nl,,120,,,,,,,,,way/1208894275
+Stavoren Binnenhaven,marina,52.88573,5.35994,,,,,,,,,,,yes,,,,way/713685633
+Stichting Jachthaven Wartena,marina,53.14927,5.90614,,+31 58 255 1870,,https://www.jachthavenwartena.nl/,info@jachthavenwartena.nl,,,,,,,,,,way/79575349
+Stichting Passantenhaven Terschelling,marina,53.36471,5.22068,West-Terschelling,+31 562 443 337,,https://www.jachthaventerschelling.nl,,,,,,,yes,yes,yes,,node/3924013456
+Stichting Recreatiehaven Onderdendam,marina,53.33675,6.58544,,+31 50 304 9187,,https://www.jh-onderdendam.nl/index.php,johanpruis@live.nl,,,,,,,,,,node/1430660350
+Stoeten Motorjachten Lemmer,marina,52.84682,5.69879,,+31 514 561 493,,https://stoeten.com/,info@stoeten.com,,,,,,,,,,node/2154682594
+Suderkade,marina,53.09637,5.83738,,,,,,,,,,,,,,,way/1320964606
+Swettehaven Aldeboarn,marina,53.04891,5.89894,,,,,,,,,,,,,,,way/1389028999
+Terherne Haven,marina,53.04155,5.784,,,,,,,,,,,,,,,way/173730546
+Terhernstersyl,marina,53.04318,5.76996,,,,https://www.terhernstersyl.nl/,,,,,,yes,,,,,node/12213528219
+Terra Nautic,marina,52.5353,6.14794,,,,,,,,,,,,,,,way/497499979
+Timmeler Hafen,marina,53.36112,7.51125,,,,,,,,,,,,,,,way/32786421
+Tjarda,marina,52.19065,4.50761,,,,,,,,,,,,,,,way/1058205941
+Trintelhaven,marina,52.63525,5.41611,,,,,,,,,,,,,,,way/95750747
+Tusken de Marren,marina,53.0481,5.8237,,,,https://www.drijfveer.nl/,,,,,,,,,,,way/139658769
+Twentse Watersport Vereniging,marina,52.25132,6.76244,,,,https://www.twvhengelo.nl/,,,,,,,,,,,way/170673593
+Twiske Haven,marina,52.4489,4.88767,,+31 75 684 4890,,https://twiskehaven.nl/,info@twiskehaven.nl,,,,,,,,,,way/954767830
+Uterwei,cargo,53.2266,6.17259,,,,,,,,,,,,,,,way/427691687
+VVE Noordzijde,marina,52.37305,4.82494,,,,,,,,,,,,,,,way/222267337
+VVV Steiger,marina,52.30775,5.04384,,,,,,,,,,,,,,,node/521830923
+Van Ewijcksluis,marina,52.88236,4.87397,,+31 223 531 667,,https://www.wvap.nl,,,,,,,,,,,way/186562448
+Van Heusden Watersport,marina,52.1835,5.01956,Breukelen,,,https://www.vanheusdenwatersport.nl/,info@vanheusdenwatersport.nl,,,,,,,,,,node/2885742076
+Van Merlenhaven,marina,52.33746,4.62052,,,,https://www.merlenhaven.nl/,,,,,,,,,,,way/103067612
+Van Roeden Watersport,marina,52.96769,5.61726,,,,,,,,,,yes,,,,,node/13793436033
+Veer Wijns_Britsum,marina,53.25207,5.83132,,,,,,,,,,,,,,,node/5802350812
+Veerhof,marina,52.72896,5.09959,,,,,,,,,,,,,,,node/5803224161
+Verheeskade schepen aanlegplaats,marina,52.06508,4.32142,,,,,,,,,,,,,,,way/469768682
+Vissershaven Den Oever,fishing,52.93751,5.03258,,+31 88 3215000,,,contact@hollandskroon.nl,,,,,,,,,,way/1389032978
+Vlietland Jachtservice,marina,52.12432,4.4625,,+31 71 561 3616,,https://www.vlietlandjachtservice.nl,info@vlietlandjachtservice.nl,,,,,,,,,,way/1325229800
+Vluchthaven,marina,52.6375,5.06552,,+31 229 213 540,,https://www.wsvh.nl/,havenmeester@wsvhoorn.nl,180,,,yes,yes,yes,yes,yes,,way/250111734
+Vluchthaven Hameland,marina,52.25984,5.45287,,,,,,,,,,,,,,,node/2104284121
+Vluchthaven Wijdenes,marina_no_facilities,52.63111,5.17096,,,,https://recreatieschapwestfriesland.nl/recreatieterreinen/haven-wijdenes/,,,,,,,,,,,way/353683502
+Voordewind,marina,52.85549,5.68785,,+31 514 563 292;+31 6 14435175,,http://www.voordewind.nl/,post@voordewind.nl,,,,,,,,,,node/2588318136
+Voorsterhaven,cargo,52.51593,6.05865,,,,,,,,,,,,,,,way/86840937
+W.S.V Bovenhaven,marina,52.55182,5.92399,,+31 6 28334061,,https://www.bovenhaven.nl/,info@bovenhaven.nl,,,,,yes,yes,yes,yes,,way/86840862
+W.S.V. Bergumermeer,marina,53.1867,5.99437,,,,https://www.wsvbergumermeer.nl,,,,,,yes,yes,yes,yes,,way/58539221
+W.S.V. De Oude IJssel,marina,52.00791,6.13229,,,,https://www.wsvdeoudeijssel.nl/,,,,,,,,,,,node/1140833256
+W.S.V. Durgerdam,marina,52.37751,4.99178,,+31 6 14750510,,https://wsvdurgerdam.nl/,info@wsvdurgerdam.nl,,,,,yes,,yes,yes,,way/1097263873
+W.S.V. Eilandspolder,marina,52.55816,4.85293,,,,http://www.wsveilandspolder.nl,,,,,,,,,,,way/1284968406
+W.V. De Gouwe,marina,52.08631,4.65165,,,,https://www.wvdegouwe.nl/,,,,,,,,,,,way/94074456
+W.s.v. de Oude IJssel,marina,52.00794,6.12978,Doesburg,,,,,,,,,,,,,,node/5719653988
+WSC Lathen,marina,52.86023,7.30105,,,,,,,,,,,,,,,way/130854181
+WSC Loga,marina,53.22742,7.4989,,+49 491 9791031,,https://www.wsc-loga.de/,,,,,,,,,,,node/2112539231
+WSC Poseidon Barßel e.V.,marina,53.16777,7.73658,,,,,,,,,,,,,,,node/10685747460
+WSC Strand Horst,marina,52.31659,5.56222,,+31 341 561 333,,https://www.strandhorst.com/,haven@strandhorst.com,,,,,,,,,,way/6293919
+WSC Vlietland - Haven,marina,52.12235,4.46323,,,,,,,,,,,,,,,way/268014961
+WSF Emden,marina,53.35316,7.22319,,,,,,,,,,,,,,,node/2901227022
+WSV Albatros,marina,52.37159,4.92418,,,,https://www.wsvalbatros.nl/,,,,,,,,,,,way/495482226
+WSV Almere-Haven,marina,52.33206,5.2186,,+31 36 531 7517,,https://www.wsvalmerehaven.nl/,info@wsvalmerehaven.nl,,,,,,,,,,way/80142448
+WSV Alphen aan den Rijn,marina,52.15519,4.64487,,,,https://www.wvalphen.nl,,,,,,,,,,,way/369697957
+WSV Bergumermeer,marina,53.18643,5.99011,,,,,,,,,,,,,,,node/2883722001
+WSV Blauwe Diamant,marina,52.33659,5.5143,,,,http://www.wsvblauwediamant.nl/,,,,,,,,,,,relation/11913190
+WSV Brookmerland,marina,53.51079,7.25471,,+49 4934 496756,,https://wsvbrookmerland.reemtsonline.de/index.php,,,,,,,,,,,node/2834272613
+WSV Buurman,marina,51.97863,4.57271,,,,,,121,,,,yes,,,,,way/1059267610
+WSV De Bavelaar,marina,52.20621,4.44145,,,,,,,,,,,,,,,way/97453160
+WSV De Breek,marina,52.43209,4.90041,,+31 20 482 3483,,https://wsvdebreek.nl/,,,,,,,,,,,way/954769672
+WSV De Harder,marina,52.38911,5.64437,,,,https://www.wsvdeharder.nl/,,,,,,,,,,,node/2244982005
+WSV De Leijen,marina,53.14737,6.10011,,,,,,,,,,,,,,customers,node/5785022401
+WSV De Oostvaarders,marina,52.37215,4.92508,,,,,,,,,,,,,,,way/495482225
+WSV De Ouwe Helling,marina,52.41308,4.92738,,,,http://www.deouwehelling.nl/,,,,,,,,,,,way/954766353
+WSV De Raskes Ezumazijl,marina,53.3585,6.15023,,,,,,,,,,,,,,,node/5803701148
+WSV De Riette,marina,52.56639,5.90348,,+31 38 332 6654,,https://wsvderiette.nl/,haven@wsvderiette.nl,,,15,,,,,,,way/86841338
+WSV De Vlietstreek,marina,52.06518,4.34701,,,,,,,,,,yes,,,,,way/1359049843
+WSV De Watergeuzen,marina,53.35706,6.33057,,,,,,,,,,,,,,,node/1345154145
+WSV De Zeevang,marina,52.51677,5.07275,,+31 299 350 174,,https://www.wsvdezeevang.nl/,,,,,,,,,,,way/202119686
+WSV Dronten,marina,52.52812,5.71212,,,,https://www.wsvdronten.nl/,,,,,,,,,,,node/1366779122
+WSV Durgerdam,marina,52.37915,4.99629,,,,https://wsvdurgerdam.nl/,,,,,,,,,,,way/484535942
+WSV Eemland,marina,52.22041,5.30965,Baarn,,,https://www.wsv-eemland.nl/index.php?option=com_jumi&view=application&fileid=6&Itemid=146,,,,,,,,,,,way/244379878
+WSV Het Nieuwe Diep,marina,52.36125,4.96342,,+31 20 665 2504;+31 6 42512508,,https://wsvhetnieuwediep.blogspot.com,,,,,,,,,,,node/4494375795
+WSV Kampen IJsselmuiden,marina,52.55892,5.92175,,,,https://wsvijsselmuiden.nl/,,,,,,,,,,,way/86841057
+WSV Marcardsmoor,marina,53.45846,7.71856,,,,,,,,,,,,,,,way/384344693
+WSV Marcardsmoor,marina,53.45979,7.71849,,,,https://www.wsv-marcardsmoor.de/index.html,,,1.50,12.00,yes,,,,,,node/3608508347
+WSV Marcardsmoor,marina,53.4624,7.71463,,,,https://www.wsv-marcardsmoor.de/index.html,,,1.50,13.00,yes,,,,,,node/3608487850
+WSV Montfoort,marina,52.04431,4.94496,,,,,,,,,,,,,,,node/1368199373
+WSV Nigtevecht,marina,52.2738,5.02213,,,,,,,,,,,yes,no,,,node/4127647041
+WSV Nigtevecht,marina,52.27382,5.02218,,,,,,,,,,,yes,no,,,node/2101902827
+WSV Noord Zuid,marina,52.15128,4.78546,,,,,,,,,,,,,,,way/1121455436
+WSV Nulde,marina,52.27009,5.5337,,+31 341 352 732,,https://www.wsvnulde.nl/,wsvnulde@hetnet.nl,,,,,,,,,,way/97852893
+WSV Ostrhauderfehn eV 1991,marina,53.14501,7.60137,,,,,,,,,,,,,,,node/1905286154
+WSV Ouder-Amstel,marina,52.29532,4.91493,,,,,,,,,,,,,,,node/2102788775
+WSV Plettenburg,marina,52.01289,5.09846,,,,,,,,,,,,,,,node/1839055018
+WSV Schardam,marina,52.59639,5.01943,,,,,,50,,,,yes,,,,,node/1974320894
+WSV St. Nicolaasga,marina,52.91278,5.7428,,,,https://www.wsv-stnic.nl/,,,,,,,,,,,node/2884814701
+WSV Wiltshausen,marina,53.223,7.52785,,+49 491 71830,,http://www.wsv-wiltshausen.de,,,,,,,,,,,node/2112454012
+WSV de Eems,marina,53.30211,7.03489,,,,https://www.wsvdeeems.nl/,,,,,,,,,,,node/6631788217
+WSV de Meent,marina,52.17419,5.03104,Breukelen,,,,,,,,,,,,,,node/2885671883
+WSV de Zuiderzee,marina,52.38264,4.96266,,,,https://www.wsv-dezuiderzee.nl,info@wsv-dezuiderzee.nl,,,,yes,6A,yes,yes,yes,,way/464935020
+WSV de Zuiderzee,marina,52.65777,5.60034,,,,,,,,,,,,,,,node/10094878918
+WSV het Koggeschip,marina,52.57667,5.91762,,,,https://www.wsvhetkoggeschip.nl/,,,,,,,,,,,node/4681838102
+WSV op 't end,marina,53.40349,6.67654,,+31 6 21401763;+31 595 433 236,,http://www.wsvoptend.com/,,,,,,,,,,,node/2178377947
+WSVDS Sixhaven,marina,52.38227,4.90623,,+31 20 632 9429,,https://www.sixhaven.nl/,,,,,,,,,,,node/4130449601
+WV Bovenwater,marina,52.48665,5.41624,,,,,,,,,,,,,,,way/47274224
+WV Bovenwater,marina,52.48683,5.41508,,,,,,,,,,,,,,,way/95750754
+WV Braassemermeer,marina,52.19456,4.64095,Roelofarendsveen,,,https://www.braassemermeer.nl/,,,,,,yes,,,,,node/3862884161
+WV De Oude Weer,marina,53.39025,6.56284,,+31 595 424 216;+31 595 424 456,,https://www.warffum.nl/sport/watersportvereniging-de-oude-weer,,,,,,,,,,,node/2178373037
+WV Kraggenburg,marina,52.66736,5.90146,,,,https://wsvkraggenburg.nl/,,,,,,,,,,,node/4122869353
+WV Nannewijd,marina,52.95044,5.87162,,,,,,,,,,,,,,,node/5794295838
+WV Ploegensluis,marina,52.2267,4.77447,De Kwakel,,,,,,,,,,,,,,node/2816279208
+WV Roggebot,marina,52.53393,5.8558,,,,,,,,,,,,,,,way/876545288
+WV Volendam,marina,52.49244,5.07452,,+31 6 51337494,,https://www.wsvvolendam.nl/,,,,,,,,,,,node/1081137323
+WVG Gouda,marina,52.01184,4.6918,,+31 6 14884345,,https://www.watersportvereniging-gouda.nl/,,,,,,,,,,,way/1430300662
+Waddenhaven,fishing,52.94061,5.03283,,+31 88 3215000,,,contact@hollandskroon.nl,,,,,,,,,,way/1389032980
+Waddenhaven Ameland,marina,53.43723,5.77552,,+31 519 542 159,31,https://waddenhavenameland.nl/,info@waddenhavenameland.nl,120,,,,yes,,yes,yes,,way/321332017
+Waddenhaven Texel,marina,53.04433,4.85781,,,31,https://www.waddenhavens.nl/texel,,,,,,,,,,,way/143987963
+Waddenhaven Vlieland,marina,53.29656,5.08921,Vlieland,+31 562 451 729,12,https://www.waddenhavenvlieland.nl/,info@havenvlieland.nl,300,,,,yes,yes,yes,yes,,way/157319075
+Wassersportclub Jümme Detern,marina,53.22251,7.63379,,+49 172 1698118,,http://www.wsc-juemme.de,v.h@ewetel.net,,,,,,,,,,node/2146467061
+Wassersportclub Rhede (Ems),marina,53.07037,7.2828,,,,https://www.wsc-rhede-ems.de/,,,,,,,,,,,node/2074472711
+Wassersportclub Soeste Barßel,marina,53.16886,7.73336,,+49 4492 1785,,http://www.wsc-soeste.de,info@wsc-soeste.com,,,,,,,,,,node/2146467062
+"Wassersportverein ""Luv up"" eV Jemgum",marina,53.2644,7.39251,,+49 170 4720644,,https://www.luv-up.de/,info@luv-up.de,,,,,,,,,,node/685541803
+Wassersportverein Dre Deep Loppersum,marina,53.45979,7.28261,,,,,,,,,,,,,,,node/415130398
+Wassersportverein Jan van Ketel,marina,52.79904,4.79344,,,,,,,,,,,,,,,node/2886655401
+Wassersportverein Neptun Barßel,marina,53.17297,7.74639,,,,,,,,,,,,,,,node/431077976
+Wassersportverein Westerende (WSW),marina,53.4364,7.42116,,,,http://www.wsw-westerende.de,,,,,,,,,,,node/431071001
+Wassersportverein Zweibült Engerhafe,marina,53.47828,7.28719,,,,,,,,,,,,,,,node/415133491
+Water Sport Club Breewijd,marina,52.95184,4.78183,,,,http://www.wscbreewijd.nl,,,,,,,,,,,way/1068215593
+Waterpark Beulaeke Haven,marina,52.69295,6.07192,,,,https://waterparkbeulaekehaven.nl,,,,,,,,,,,way/779918190
+Waterpark Noord,marina,52.70751,6.18779,,,,,,,,,,,,,,private,way/133994254
+Waterpark Terherne (Bootverhuur),marina,53.0407,5.78573,,,,,,,,,,,,,,,node/2957150729
+Waterpark Yn 'e Lijte,marina,53.09972,5.84732,,+31 566 621 487,,https://www.ynelijte.nl/nl,info@ynelijte.nl,,,,,,,,,,node/2161072694
+Watersport Hoogeboom,marina,52.708,4.81971,,,,,,,,,,,,,,,node/1864277556
+Watersport Twee Provinciën,marina,53.1842,5.83689,Leeuwarden,,,,info@watersporttweeprovincien.nl,,,,,,,,,private,way/867647853
+Watersport Vereniging Aalsmeer,marina,52.26101,4.73721,,+31 6 55566624,,https://www.wvaalsmeer.nl/,,,,,,,,,,,node/3864839257
+Watersport Vereniging Schiphol,marina,52.25792,4.72872,,+31 6 25025711,,https://www.wvschiphol.nl/,,,,,,,,,,,node/3866105131
+Watersport vereniging Onrust,marina,52.95028,4.77983,,,,https://www.wsvonrust.nl,,,,,,,,,,,way/849107410
+"Watersportbedrijf ""de Lits""",marina,53.17484,6.0545,,,,https://delits.nl/nl/jachthaven,,,,,,,,yes,yes,,way/599969754
+Watersportcentrum Braassemermeer,marina,52.20242,4.64596,,,,http://www.jachthaven-wb.nl/,,,,,,,,,,,node/3862873697
+Watersportcentrum Lemmer,marina,52.84217,5.70541,,+31 514 560 880,,https://watersportcentrumlemmer.nl/,info@jachthavenlemmer.nl,,,,,yes,,,,,node/2154682551
+Watersportcentrum Muiderberg,marina,52.32999,5.11993,,+31 6 51074236,,https://www.wscmuiderberg.nl/,jeroensail@hotmail.com,,,,,,,,,,node/1824141759
+Watersportcentrum Sloterplas,marina,52.36028,4.81553,,,,,,,,,,,,,,,way/491454899
+Watersportcentrum de Zeilhoek,marina,52.46563,5.03774,,+31 299 651 463,,https://www.dezeilhoek.nl,info@dezeilhoek.nl,,,,,,,,,,way/103812989
+"Watersportvereniging ""Helder - Willemsoord - Nieuwediep"" (wsvhwn)",marina,52.95376,4.77868,,,,https://wsvhwn.nl,,,,,,,,,,,way/960962173
+Watersportvereniging 't Neckerhop,marina,52.51028,4.92597,,,,https://www.neckerhop.nl/index.html,,,,,,,,,,,way/415744220
+Watersportvereniging Berend Aalbers,marina,52.58404,5.86868,Kampen,,,https://berendaalbers.jouwweb.nl,,,,,,,,,,,node/2637215145
+Watersportvereniging De Engel,marina,52.01474,6.05144,,+31 6 23821329,,https://www.wsvdeengel.nl,,,,,,,,,,,node/972943554
+Watersportvereniging De Kaag,marina,52.19076,4.5001,,,,,,,,,,,,,,,way/97401123
+Watersportvereniging De Kaag,marina,52.1911,4.49778,,,,https://www.kwvdekaag.nl,,,,,,,,,,,way/97401162
+Watersportvereniging De Peiler,marina,51.98736,5.06166,,+31 347 376 356,31,https://www.depeiler.nl/,info@depeiler.nl,,,,,,,,,,node/3250884857
+Watersportvereniging Dokkum,marina,53.32578,6.00443,,,,,,,,,,,,,,,node/2883479002
+Watersportvereniging Het Witte Huis,marina,52.18717,5.08456,,,,https://www.wsv-hetwittehuis.nl/,,,,,,,,,,,way/997143326
+Watersportvereniging IJmond,marina,52.42949,4.71343,,,,,,,,,,,,,,,way/106660520
+Watersportvereniging Leiden,marina,52.17062,4.51365,,,,https://wvleiden.nl/,,,,,,,,,,,way/1218867734
+Watersportvereniging Lisse,marina,52.24899,4.56693,,,,https://www.wsvlisse.nl,,,,,,,,,,,way/479371792
+Watersportvereniging Makkum,marina,53.05478,5.38395,,,,,,,,,,,,,,,node/4011677381
+Watersportvereniging Sloterplas,marina,52.35899,4.81492,,,,,,,,,,,,,,,way/491454900
+Watertuin,marina,52.18662,4.54132,,,,,,,,,,,,,,,way/97401090
+Wergeaster Wettersport Feriening,marina,53.14624,5.84596,,,,https://www.wwswergea.nl,,,,,,,,,,,way/1012393044
+Werkhaven,bulk,52.64063,5.08773,,,,,,,,,,,,,,,node/911897727
+Werkhaven,fishing;port_support_base;service_repair,53.04118,4.85334,,,12,,,,,,,,,,,,relation/1949074
+Westerhaven,marina,52.77009,5.10588,,,,,,,,,,,,,,,way/90326545
+Westerhaven,marina,52.77035,5.10812,,,,,,,,,,,,,,,way/1013202369
+Woonschepenhaven,marina,53.22184,6.59972,,,,http://www.wshgrunn.nl/,,,,,,,,,,,way/94192567
+Workumer Jachthaven,marina,52.97792,5.46316,,,,,,,,,,,,,,,node/1892319500
+Workumer Jachthaven,marina,52.97817,5.46346,,+31 515 541 855,,https://www.wjh.nl,,,,,,,,,,,node/4125216807
+Wsv De Kooihaven,marina,52.16012,4.51384,,,,https://www.kooihaven.nl,,,,,,,,,,,way/97293801
+YCH Yacht Club Harlesiel,marina,53.70547,7.80927,,+49 4464 472,,https://www.yachtclub-harlesiel.de/,info@yachtclub-harlesiel.de,,,,,,,,,,node/1962296495
+YCHE - Yachtclub Hase Ems Meppen,marina,52.70991,7.28378,,+49 5931 87101,,https://www.meppener-yachtclub.de/,info@yachtclub-meppen.de,,,,,,,,,,way/208861255
+Yacht Club Lingen (Ems) - YCL,marina,52.47451,7.30476,,+49 171 3133367,,https://www.yachtclub-lingen.de/,info@yachtclub-lingen.de,,,,,,,,,,node/2116466189
+Yacht-Club Aurich,marina,53.44299,7.30473,,,,https://www.yachtclub-aurich.de/,,,,,,,,,,,node/476679718
+Yacht-Club Norden,marina,53.62479,7.15338,,+49 4931 8060,,https://yacht-club-norden.de/,,,,,,,,,,,node/2105871908
+Yacht-Club Norden,marina,53.62533,7.15554,,+4915151508240,,https://yacht-club-norden.de/,,,,,,yes,,,,,way/576489885
+Yacht-Club Sautelersiel e.V.,marina,53.28506,7.40303,Moormerland,+49 152 0594 4134,,https://yachtclub-sautelersiel.de,,30,,,,no,,,,,node/2112539233
+Yachtclub Accumersiel,marina,53.6804,7.48893,,+49 4933 2440,,https://www.ycacc.de/,info@yachtclub-accumersiel.de,,,,,,,,,,node/431047388
+Yachtclub Greetsiel,marina,53.50242,7.09989,,+49 4926 402; +49 175 8539666,,https://www.yachtclub-greetsiel.de/,info@yachtclub-greetsiel.de,,,,,,,,,,node/1524469851
+Yachtclub Lingen (Ems) e.V.,marina,52.45293,7.32515,,,,,,,,,,,,,,,node/637674108
+Yachtclub Midlum Ostfriesland e.V. (YCMO),marina,53.29006,7.37886,,,,http://yachtclub-midlum.de/,yachtcmo@online.de,,,,,,,,,,way/56692140
+Yachtclub Papenburg e.V.,marina,53.10173,7.36764,,,,https://www.ycpapenburg.de/,,,,,,,,,,,node/1753795560
+Yachthafen,marina,52.98001,5.89652,,,,,,,,,,,,,,,node/2361381901
+Yachthafen Außenhafen,marina,53.34298,7.18899,,,,https://www.emderyachtclub.de/,hg.leverkinck@googlemail.com,,,,,,,,,,way/103453196
+Yachthafen Dörpen-Lehe,marina,52.98534,7.36766,,+49 4963 260,,,,,,,,,,,,,way/41265576
+Yachthafen Ems-Marina Bingum,marina,53.22601,7.41875,,+49 491 4421,,https://www.ems-marina-bingum.de/index.php/de/yachthafen/default.php,,,,,,,,,,,node/2112539234
+Yachthafen Emspark Haren,marina,52.78592,7.24751,,+49 173 4645990,,,,,,,,,,,,,node/2074472712
+Yachthafen Juist,marina,53.67291,6.99872,,,,,,,,,,,no,no,no,,way/25628615
+Yachthafen Marina Alte Fahrt Fuestrup,marina,52.04614,7.68681,,+4925713896,,https://www.fuestrup.de/marina/,,,,,,,no,yes,,,way/401912465
+Yachthafen Norden,marina,53.58985,7.2115,,,,,,,,,,,,,,,node/3112838720
+Yachthafen Norderney,marina,53.70288,7.16567,,,,,,,,,,,,,,,way/25775946
+Yachthafen Surwold,marina,53.00754,7.49443,,+49 4965 8128,,https://surwold.de/yachthafen-surwold/,Mescher-Surwold@t-online.de,,,,,,,,,,way/176206014
+Yachthafen des Yacht Club Turmkanal zu Papenburg e.V.,marina,53.08692,7.3847,,,,,,50,,,,yes,,,,,way/109866094
+Yachthaven De Lytse Brekken,marina,52.89631,5.70234,,+31 6 18908359,,https://www.delytsebrekken.nl/,info@delytsebrekken.nl,,,,,,,,,,node/4440374213
+Yachtzentrum Störtebeker,marina,53.62461,7.16249,,+49 4931 8845,,https://www.norddeicher-schiffswerft.de/,info@yachtzentrum-stoertebeker.de,,,,,,,,,,node/2105871917
+Ykema,marina,52.98574,5.50957,,,,,,13,,,,,,,,,way/349487651
+Z&MV de Zuidwal,marina,52.2574,5.46791,,+31 33 245 3033,,,,,,,,,,,,,relation/11923345
+ZV het Y,marina,52.37788,4.99337,,,,https://www.zvhety.nl/havens/durgerdam,,,,,,,,,,,relation/5337573
+ZVG zeilvereniging gaasperplas,marina,52.30559,4.98056,,,,https://www.zeilvereniging-gaasperplas.nl/,,,,,,,,,,,node/1581703779
+Zeilboerderij Rufus,marina,52.99339,5.75292,,+31 513 412 594,,https://www.rufus.nl,,,,,,,,,,,relation/16220126
+Zeilschool Haven Vinkeveen,marina,52.21766,4.93723,,,,https://www.vinkeveenhaven.nl,,,,,,,,,,,node/947021601
+Zeilvereniging De Lek,marina,52.00285,5.08648,Nieuwegein,+31 30 606 2970,,https://www.zvdelek.nl/,,,2,15,,yes,,,,,node/3012966896
+Zeilvereniging De Onderlinge,marina,52.47055,4.82041,,,,https://www.zvdeonderlinge.nl/,,,,,,,,,,,way/46595875
+Zijda Yachthaven,marina,53.07401,5.80221,,,,,,,,,,,,,,,way/81293459
+Zijlzicht,marina,52.17233,4.51519,,,,https://www.zijlzichtvlet.nl,,,,,,,,,,,way/97401148
+Zuiderhaven,fishing;passenger,53.0393,4.8504,,,12,,,,,,,,,,,,way/734776262
+Zuiderzeehaven,tanker;container,52.57753,5.87005,,,,,,,,,,,,,,,way/128722330
+Zweedse Haven,cargo,53.21724,6.59524,,,,,,,,,,,,,,,way/94617551
+de Jong,marina,52.03809,4.72132,,,,,,,,,,,,,,,relation/20574608
+de Swaenenburght,marina,52.37913,4.7559,,,,https://www.deswaenenburght.nl,,,,,,,,,,,way/197452216
+jachthaven Jutryp,marina,52.9983,5.64732,,,,,,,,,,,,,,,node/1644731892
+passantenhaven Drylts,marina,53.00759,5.62779,,,,,,,,,,,,,,,way/854303754
+passantenhaven Keverhaven,marina,52.21181,4.57256,,,,,,,,,,,,,,,node/3529202837
+passantenhaven de westereen,marina,53.25061,6.02607,,,,,,,,,,,,,,,node/2004683492
+st. Jachthaven Medemblik,marina,52.77065,5.10563,,,,https://st-jachthavenmedemblik.nl/,,,,,,,,,,,node/7319122393
